@@ -4,9 +4,9 @@ A curated list of time tracking applications, libraries, and tools.
 
 ## 🔥 Acknowledgements
 
-This directory was built and is maintained using the [Ever Works](https://ever.works) platform with source code available with AGPLv3 license: <https://github.com/ever-works/ever-works> ⭐ 23 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-13.
+This directory was built and is maintained using the [Ever Works](https://ever.works) platform with source code available with AGPLv3 license: <https://github.com/ever-works/ever-works> ⭐ 23 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-14.
 
-The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/directory-web-template) ⭐ 16 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13.
+The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/directory-web-template) ⭐ 17 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13.
 
 ## 📑 Table of Contents
 
@@ -954,7 +954,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Time Tracking Software
 
-* [TimeScribe](https://github.com/WINBIGFOX/TimeScribe) ⭐ 883 | 🐛 27 | 🌐 PHP | 📅 2026-06-02 - A modern and private time tracking application for macOS and Windows that operates 100% offline with no cloud, no registration, and no paywall, offering simple controls, automation features, and detailed insights for managing work hours. ([Read more](/details/timescribe.md)) `Open Source` `Privacy` `Offline` `Desktop`
+* [TimeScribe](https://github.com/WINBIGFOX/TimeScribe) ⭐ 884 | 🐛 27 | 🌐 PHP | 📅 2026-06-02 - A modern and private time tracking application for macOS and Windows that operates 100% offline with no cloud, no registration, and no paywall, offering simple controls, automation features, and detailed insights for managing work hours. ([Read more](/details/timescribe.md)) `Open Source` `Privacy` `Offline` `Desktop`
 * [utt (Ultimate Time Tracker)](https://github.com/larose/utt) ⭐ 349 | 🐛 1 | 🌐 Python | 📅 2026-01-08 - A simple command-line time tracking application written in Python for freelancers and consultants who need to track time and generate reports for another system. Features activity categorization into working, break, and ignored types with customizable reporting. ([Read more](/details/utt-ultimate-time-tracker-cli.md)) `Command Line` `Open Source` `Terminal` `Linux`
 * [Nautilus Roam Research Extension](https://github.com/tombarys/roam-depot-nautilus) ⭐ 51 | 🐛 3 | 🌐 Clojure | 📅 2026-05-20 - Roam Research extension for stress-free task planning and time tracking that visually represents tasks and calendar events in daily pages, recognizes task duration variabilities, and provides time-blocking capabilities within the Roam ecosystem. ([Read more](/details/nautilus-roam-research-extension.md)) `Roam Research` `Browser Extension` `Task Management`
 * [timetrackcli - Privacy-Focused Time Tracker](https://github.com/rezmoss/timetrackcli) ⭐ 12 | 🐛 7 | 🌐 Go | 📅 2025-09-19 - Lightweight, privacy-focused command-line time tracking tool built in Go. Features automatic productivity monitoring with beautiful terminal dashboard, smart reports, and configurable goals. All data stays local with no cloud synchronization, ensuring complete privacy and data ownership. ([Read more](/details/timetrackcli-privacy-focused-time-tracker.md)) `Cli` `Privacy` `Golang` `Open Source` `Terminal`
@@ -1456,4 +1456,4 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
