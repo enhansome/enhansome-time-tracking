@@ -4,7 +4,7 @@ A curated list of time tracking applications, libraries, and tools.
 
 ## 🔥 Acknowledgements
 
-This directory was built and is maintained using the [Ever Works](https://ever.works) platform with source code available with AGPLv3 license: <https://github.com/ever-works/ever-works> ⭐ 28 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-23.
+This directory was built and is maintained using the [Ever Works](https://ever.works) platform with source code available with AGPLv3 license: <https://github.com/ever-works/ever-works> ⭐ 28 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-24.
 
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/directory-web-template) ⭐ 17 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-23.
 
@@ -1456,4 +1456,4 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
