@@ -15,8 +15,9 @@
             "last_commit": "2026-06-02T13:28:40Z",
             "owner": "WINBIGFOX",
             "repo": "TimeScribe",
-            "stars": 889
-          }
+            "stars": 890
+          },
+          "first_seen": "2026-08-28T21:29:47.440Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "larose",
             "repo": "utt",
             "stars": 349
-          }
+          },
+          "first_seen": "2026-08-28T21:29:47.440Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "tombarys",
             "repo": "roam-depot-nautilus",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:29:47.440Z"
         },
         {
           "node_type": "item",
@@ -61,14 +64,15 @@
             "owner": "rezmoss",
             "repo": "timetrackcli",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:29:47.440Z"
         }
       ],
       "title": "Time Tracking Software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:07:49.357Z",
+    "last_updated": "2026-08-28T21:29:47.440Z",
     "original_repository_info": {
       "archived": false,
       "id": 714280515,
@@ -76,7 +80,7 @@
       "last_commit": "2026-08-04T21:55:35Z",
       "owner": "ever-works",
       "repo": "awesome-time-tracking",
-      "stars": 218
+      "stars": 219
     },
     "original_repository_sha": "cba0e1786e3abc77b9d611c2e1c6c385a7c73c33",
     "enhanced_repository": "enhansome/enhansome-time-tracking",
