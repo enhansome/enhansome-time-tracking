@@ -60,7 +60,7 @@
             "open_issues": 1,
             "owner": "larose",
             "repo": "utt",
-            "stars": 349,
+            "stars": 350,
             "topics": [
               "command-line-app",
               "python",
@@ -139,7 +139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:52:01.688Z",
+    "last_updated": "2026-08-29T15:44:43.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
