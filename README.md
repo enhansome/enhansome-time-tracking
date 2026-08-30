@@ -1456,4 +1456,4 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
