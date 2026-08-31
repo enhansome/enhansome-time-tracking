@@ -139,7 +139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T15:26:38.470Z",
+    "last_updated": "2026-08-31T18:06:11.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
@@ -148,7 +148,7 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-08-04T21:55:35Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "ever-works",
       "repo": "awesome-time-tracking",
       "stars": 219,
