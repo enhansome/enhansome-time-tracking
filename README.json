@@ -16,7 +16,7 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2026-06-02T13:28:40Z",
-            "open_issues": 27,
+            "open_issues": 29,
             "owner": "WINBIGFOX",
             "repo": "TimeScribe",
             "stars": 894,
@@ -139,7 +139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:59:12.480Z",
+    "last_updated": "2026-09-06T14:21:40.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
