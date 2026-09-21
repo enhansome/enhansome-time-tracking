@@ -15,11 +15,11 @@
             "id": 919664598,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T20:07:03Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-21T16:55:53Z",
+            "open_issues": 24,
             "owner": "WINBIGFOX",
             "repo": "TimeScribe",
-            "stars": 905,
+            "stars": 906,
             "topics": [
               "billing",
               "desktop-app",
@@ -139,7 +139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:48:15.121Z",
+    "last_updated": "2026-09-21T17:09:48.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
@@ -148,7 +148,7 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-08-04T21:55:35Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "ever-works",
       "repo": "awesome-time-tracking",
       "stars": 228,
