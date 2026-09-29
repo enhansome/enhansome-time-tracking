@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "WINBIGFOX",
             "repo": "TimeScribe",
-            "stars": 908,
+            "stars": 910,
             "topics": [
               "billing",
               "desktop-app",
@@ -139,7 +139,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:42:21.133Z",
+    "last_updated": "2026-09-29T16:58:37.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
@@ -151,7 +151,7 @@
       "open_issues": 12,
       "owner": "ever-works",
       "repo": "awesome-time-tracking",
-      "stars": 228,
+      "stars": 229,
       "topics": [
         "awesome",
         "awesome-list",
