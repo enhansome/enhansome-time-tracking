@@ -136,10 +136,2592 @@
         }
       ],
       "title": "Time Tracking Software"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Miru",
+          "description": "Miru is an open-source time tracking and invoicing web application built with Ruby on Rails and ReactJS, supporting employee benefit management as well. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Miru | Time Tracking and Invoicing and Employee Benefits. Built using Ruby On Rails and ReactJS",
+            "homepage": "https://miru.so",
+            "id": 433874407,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-03T17:40:36Z",
+            "open_issues": 1,
+            "owner": "saeloun",
+            "repo": "miru-web",
+            "stars": 268,
+            "topics": [
+              "client-invoiving",
+              "hacktoberbest2023",
+              "hacktoberfest",
+              "heroku",
+              "internal-tools",
+              "invoicing",
+              "javascript",
+              "open-source",
+              "rails",
+              "react",
+              "ruby",
+              "rubyonrails",
+              "time-tracking-app",
+              "timetracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "trax",
+          "description": "trax is a simple time tracking server built for integration with Mattermost and Slack, supporting ChatOps workflows for team-based time tracking. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Simple time tracker designed for ChatOps",
+            "homepage": null,
+            "id": 77456713,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2021-04-16T20:48:31Z",
+            "open_issues": 15,
+            "owner": "agateblue",
+            "repo": "trax",
+            "stars": 42,
+            "topics": [
+              "chatops",
+              "mattermost",
+              "mattermost-chat",
+              "slack",
+              "time-tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PhpReport",
+          "description": "PhpReport is a web-based time tracking application tailored for teams and companies, offering statistics on users and projects, and integration with external applications. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Web tool for project time tracking and project management.",
+            "homepage": "http://igalia.github.io/phpreport/",
+            "id": 52467886,
+            "language": "JavaScript",
+            "license": "GPL-3.0",
+            "last_commit": "2025-03-17T15:31:17Z",
+            "open_issues": 116,
+            "owner": "Igalia",
+            "repo": "phpreport",
+            "stars": 32,
+            "topics": [
+              "project-management",
+              "teamwork",
+              "time-tracker",
+              "timelog",
+              "timesheet"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Lasius",
+          "description": "An advanced open-source time tracking solution with features for team collaboration, real-time tracking, reporting, organization and project management, and export capabilities. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An advanced web app to track time over multiple teams, organisations and projects. Records time, shows reports and statistics. Shows time tracked vs time planned per day, week and month.",
+            "homepage": "https://demo.lasius.ch",
+            "id": 508700551,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-06T07:37:09Z",
+            "open_issues": 24,
+            "owner": "tegonal",
+            "repo": "Lasius",
+            "stars": 26,
+            "topics": [
+              "nextjs",
+              "scala",
+              "time-tracker",
+              "time-tracking-app",
+              "timetracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "time-tracker (valb3r)",
+          "description": "A time tracker and corporate authorization portal with group/user management, role inheritance, and batch reporting, powered by a graph database and reactive endpoints. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Time tracker and corporate authorization portal example for groups and users with role inheritance and batch reporting. Backed by graph database, reactive endpoints and spring batch on Neo4j for reporting",
+            "homepage": "https://valb3r.github.io/time-tracker/",
+            "id": 229727101,
+            "language": "Java",
+            "license": "MIT",
+            "last_commit": "2026-01-11T10:22:21Z",
+            "open_issues": 27,
+            "owner": "valb3r",
+            "repo": "time-tracker",
+            "stars": 15,
+            "topics": [
+              "authorization",
+              "graph",
+              "java",
+              "neo4j",
+              "spring-batch",
+              "spring-batch-neo4j",
+              "time-tracker",
+              "time-tracking-app",
+              "timetracker",
+              "webflux"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "team-project-time-tracking"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kapow",
+          "description": "Kapow is a punch clock program designed to easily track time, suitable for users needing to monitor hours worked for billing or productivity analysis. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Punch clock program.",
+            "homepage": "https://gottcode.org/kapow/",
+            "id": 1069068,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T16:32:44Z",
+            "open_issues": 7,
+            "owner": "gottcode",
+            "repo": "kapow",
+            "stars": 100,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "time-tracker (Gnome Linux)",
+          "description": "time-tracker is a GNOME Shell extension for Linux, providing native time tracking functionality directly within the desktop environment. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GNOME Shell extension for time tracking",
+            "homepage": null,
+            "id": 19713541,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2024-03-02T20:52:02Z",
+            "open_issues": 3,
+            "owner": "jsnjack",
+            "repo": "time-tracker",
+            "stars": 26,
+            "topics": [
+              "gnome",
+              "gnome-shell-extension",
+              "hacktoberfest",
+              "time-tracker",
+              "timer-clock",
+              "tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ever-gauzy-desktop-timer",
+          "description": "Ever® Gauzy™ Desktop Timer App is a desktop application for time tracking, offering download options and integrations with the Gauzy time management platform. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ever® Gauzy™ Desktop Timer App - https://gauzy.co/downloads",
+            "homepage": "https://gauzy.co/downloads",
+            "id": 416925444,
+            "language": null,
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-24T15:37:29Z",
+            "open_issues": 25,
+            "owner": "ever-co",
+            "repo": "ever-gauzy-desktop-timer",
+            "stars": 23,
+            "topics": [
+              "clock",
+              "employee-tracker",
+              "time-tracker",
+              "time-tracking",
+              "time-tracking-app",
+              "timer",
+              "timers"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GTimer",
+          "description": "A GTK application for timing activities across various projects and tasks, with support for plain text and HTML reporting. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GTimer is a GTK application for timing how you spend your time among various projects and tasks with support for generating plain text and HTML reports.",
+            "homepage": "http://www.k5n.us/gtimer.php",
+            "id": 95573944,
+            "language": "C",
+            "license": "NOASSERTION",
+            "last_commit": "2026-06-24T13:08:49Z",
+            "open_issues": 1,
+            "owner": "craigk5n",
+            "repo": "gtimer",
+            "stars": 15,
+            "topics": [
+              "gtk",
+              "linux-app",
+              "time-tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TimeSlate",
+          "description": "TimeSlate is an open-source Electron JS desktop application that tracks the usage time of different active applications on a computer and provides analysis reports. Ideal for users seeking insight into their desktop activity and time allocation across apps. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An Electron JS app which keeps track of usage time of different applications (active ones) running on computer.",
+            "homepage": null,
+            "id": 180322705,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2022-12-09T00:04:07Z",
+            "open_issues": 7,
+            "owner": "pranavmodx",
+            "repo": "TimeSlate",
+            "stars": 10,
+            "topics": [
+              "d3-visualization",
+              "electron-app",
+              "electronjs",
+              "javascript",
+              "project",
+              "report-generator",
+              "time-tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Trakker",
+          "description": "A simple menubar time tracking app that integrates with Toggl, built with Electron and React for convenient desktop time tracking. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "⏱ Simple time tracking menubar app that works with Toggl",
+            "homepage": null,
+            "id": 80789422,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2023-01-04T08:34:12Z",
+            "open_issues": 14,
+            "owner": "emiprandi",
+            "repo": "trakker",
+            "stars": 9,
+            "topics": [
+              "electron",
+              "menubar",
+              "osx",
+              "react",
+              "time-tracker",
+              "timer",
+              "toggl-api",
+              "webpack"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Time Tracker",
+          "description": "A lightweight time tracking tool integrated with the Awesome Window Manager. It lets users start, stop, and inspect tasks via configurable key bindings and records events to a Qmonix server, where tracked time can be viewed and analyzed through the Qmonix web dashboard. Designed for developers and power users who live inside Awesome WM and want keyboard‑driven time tracking. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Time tracking tool for awesome window manager",
+            "homepage": null,
+            "id": 11368237,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2019-01-17T02:30:30Z",
+            "open_issues": 0,
+            "owner": "povilasb",
+            "repo": "awesome-time-tracker",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Time Tracker",
+          "description": "Time Tracker is a simple time-tracker program for the GNOME desktop, enabling users to track and manage the time they spend on different activities. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Time tracker, diary and billing tool",
+            "homepage": "http://gttr.sourceforge.net",
+            "id": 436827875,
+            "language": "C",
+            "license": "GPL-2.0",
+            "last_commit": "2023-02-07T00:04:24Z",
+            "open_issues": 0,
+            "owner": "linas",
+            "repo": "gnotime",
+            "stars": 1,
+            "topics": [
+              "billing",
+              "diary",
+              "time-tracker",
+              "time-tracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "registro-trabajo",
+          "description": "A work hours tracker with automatic pause detection for inactivity, exporting reports in Excel, built with Python, Tkinter, and SQLite. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Registro de horas de trabajo con pausas automáticas por inactividad. Exporta informes en Excel. Construido con Python + Tkinter + SQLite.",
+            "homepage": null,
+            "id": 964045921,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-04-16T15:32:09Z",
+            "open_issues": 0,
+            "owner": "Danilovich4",
+            "repo": "registro-trabajo",
+            "stars": 0,
+            "topics": [
+              "clean-architecture",
+              "excel-export",
+              "gui",
+              "productivity",
+              "python",
+              "sqlite",
+              "time-tracking",
+              "tkinter"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "desktop-time-tracking-applications"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "timetracker",
+          "description": "Papierkram.de TimeTracker is a Flutter app for time tracking, providing a mobile solution for users needing to log their work hours. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Papierkram.de TimeTracker as flutter app",
+            "homepage": null,
+            "id": 173917035,
+            "language": "Dart",
+            "license": "AGPL-3.0",
+            "last_commit": "2023-07-26T04:52:49Z",
+            "open_issues": 3,
+            "owner": "SimonIT",
+            "repo": "timetracker",
+            "stars": 10,
+            "topics": [
+              "cupertino",
+              "flutter",
+              "flutter-apps",
+              "hacktoberfest",
+              "odacer",
+              "papierkram",
+              "time-tracker",
+              "time-tracking-app",
+              "timetracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "Mobile Time Tracking"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Time Tracking Data",
+          "description": "A machine-readable dataset of tools, software, methodologies, and practices for time tracking, used as the structured data backend for the timetrack.works \"Awesome Time Tracking\" directory. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Machine-readable data for Time Tracking - Software, Methodologies and Practices - https://timetrack.works",
+            "homepage": "https://timetrack.works",
+            "id": 983114632,
+            "language": null,
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-08-22T18:34:59Z",
+            "open_issues": 0,
+            "owner": "ever-works",
+            "repo": "awesome-time-tracking-data",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "time-tracking-overview-resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "desktop-wakatime",
+          "description": "desktop-wakatime is a system tray app for Windows & Linux that provides automatic time tracking and generates usage metrics from various tools such as Figma and Postman. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Windows & Linux system tray app for automatic time tracking and metrics generated from your Figma, Postman, etc. usage.",
+            "homepage": "https://wakatime.com/windows",
+            "id": 779104671,
+            "language": "TypeScript",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-05-21T15:10:40Z",
+            "open_issues": 32,
+            "owner": "wakatime",
+            "repo": "desktop-wakatime",
+            "stars": 174,
+            "topics": [
+              "electron-application",
+              "time-tracker",
+              "time-tracking-app",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TrackLater",
+          "description": "TrackLater is a tool that helps users track time after-the-fact by reconstructing daily activity from clues and displaying it on a simple timeline view. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TrackLater helps you track time after-the-fact by combining clues and showing your day on a simple timeline view.",
+            "homepage": null,
+            "id": 146804943,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-27T09:31:18Z",
+            "open_issues": 5,
+            "owner": "eerovil",
+            "repo": "TrackLater",
+            "stars": 125,
+            "topics": [
+              "flask",
+              "git",
+              "jira",
+              "linux",
+              "opensource",
+              "python",
+              "python37",
+              "slack",
+              "taiga",
+              "thyme",
+              "time-tracker",
+              "toggl",
+              "vue"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Latte",
+          "description": "Latte is an open-source, automatic time tracker for Linux desktops, designed to track and record activity without manual intervention. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Automatic time tracker for Linux",
+            "homepage": null,
+            "id": 4019570,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2021-06-14T19:39:59Z",
+            "open_issues": 5,
+            "owner": "flakas",
+            "repo": "Latte",
+            "stars": 32,
+            "topics": [
+              "linux",
+              "python",
+              "time-tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "time-tracker-agent",
+          "description": "time-tracker-agent is an application for tracking time spent on applications, useful for productivity analysis and reporting. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Application time tracker agent",
+            "homepage": null,
+            "id": 242835595,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2022-12-15T12:11:56Z",
+            "open_issues": 0,
+            "owner": "Stigmatoz",
+            "repo": "time-tracker-agent",
+            "stars": 9,
+            "topics": [
+              "application-tracking-system",
+              "productivity",
+              "time-tracker",
+              "time-tracking-app",
+              "windows-service"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pururu-bot",
+          "description": "A Discord bot for attendance management with automated tracking, clock-in/clock-out, and absence monitoring features. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pururu Bot is a Discord bot designed for a specific server to manage attendance. It features automated tracking, clock-in and clock-out functions, and absence monitoring. Built using the discord.py library, it interfaces with the Discord API and employs Google Sheets API for data storage, using Google Sheets as its primary database.",
+            "homepage": null,
+            "id": 837739139,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T20:11:50Z",
+            "open_issues": 2,
+            "owner": "jlvadell",
+            "repo": "pururu-bot",
+            "stars": 7,
+            "topics": [
+              "absence-management",
+              "api-integration",
+              "attendance",
+              "attendance-management",
+              "data-management",
+              "discord",
+              "discord-bot",
+              "discord-py",
+              "google-sheets",
+              "google-sheets-api",
+              "productivity",
+              "python",
+              "side-project",
+              "time-tracker",
+              "time-tracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "xbar-rescuetime-activities",
+          "description": "An xbar plugin for macOS that monitors RescueTime activities and distractions from the menu bar. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Monitor your RescueTime activities and distractions directly from the macOS menu bar with this xbar plugin.",
+            "homepage": null,
+            "id": 888367233,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-11-18T08:59:40Z",
+            "open_issues": 0,
+            "owner": "stared",
+            "repo": "xbar-rescuetime-activities",
+            "stars": 5,
+            "topics": [
+              "menubar-app",
+              "productivity",
+              "rescuetime",
+              "time-tracking",
+              "xbar",
+              "xbar-plugin"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "automated-time-tracking"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pomotroid",
+          "description": "Simple and visually-pleasing Pomodoro timer desktop application built with Electron. Features customizable themes, timer controls, and desktop notifications to help users track productivity using the Pomodoro Technique. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+            "homepage": "https://pomotroid.app",
+            "id": 119006816,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-07T23:38:41Z",
+            "open_issues": 132,
+            "owner": "Splode",
+            "repo": "pomotroid",
+            "stars": 5528,
+            "topics": [
+              "pomodoro",
+              "pomodoro-technique",
+              "pomodoro-timer",
+              "productivity",
+              "rust",
+              "svelte",
+              "tauri",
+              "time-management"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TomatoBar",
+          "description": "World's neatest Pomodoro timer for macOS menu bar. A minimal, elegant Pomodoro timer that lives in your Mac's menu bar with configurable work and rest intervals, optional sounds, and global hotkey support. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🍅 World's neatest Pomodoro timer for macOS menu bar",
+            "homepage": null,
+            "id": 131987490,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-05-29T06:40:50Z",
+            "open_issues": 46,
+            "owner": "ivoronin",
+            "repo": "TomatoBar",
+            "stars": 3557,
+            "topics": [
+              "macos",
+              "menubar",
+              "pomodoro",
+              "productivity",
+              "swift",
+              "timer"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "Countdown & Interval Timers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flutter_achiver",
+          "description": "A minimal Pomodoro-style timer and time tracker built with Flutter, focused on simple time tracking and productivity. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A pomooro timer and timer tracker",
+            "homepage": "https://play.google.com/store/apps/details?id=com.popupbits.achiver",
+            "id": 218706567,
+            "language": "Dart",
+            "license": null,
+            "last_commit": "2019-11-17T01:12:58Z",
+            "open_issues": 0,
+            "owner": "lohanidamodar",
+            "repo": "flutter_achiver",
+            "stars": 23,
+            "topics": [
+              "flutter",
+              "flutter-apps",
+              "pomodoro",
+              "pomodoro-timer",
+              "time-tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Notomato Task Timer",
+          "description": "A Pomodoro task management application built with Ionic and Dexie.js, allowing users to track tasks, save notes, and export records in various formats. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🍅📝Pomodoro notes app built in Ionic & Angular frameworks, using Dexie.js to persist tasks/notes in IndexedDB📝🍅",
+            "homepage": "https://notomato.vercel.app",
+            "id": 457236324,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2023-06-15T17:11:20Z",
+            "open_issues": 0,
+            "owner": "TBosak",
+            "repo": "notomato",
+            "stars": 19,
+            "topics": [
+              "angular",
+              "dexiejs",
+              "docker",
+              "docker-image",
+              "documentation",
+              "indexeddb",
+              "ionic",
+              "material-ui",
+              "notes",
+              "pomodoro",
+              "self-hosted",
+              "time-tracker",
+              "vercel",
+              "vercel-deployment"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "countdown-interval-timers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Charm",
+          "description": "Charm is a cross-platform time tracking software tailored for professionals, offering tools to log and manage billable work hours. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "The Charm Tool and Library 🌟",
+            "homepage": null,
+            "id": 236106066,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2025-03-06T13:39:14Z",
+            "open_issues": 0,
+            "owner": "charmbracelet",
+            "repo": "charm",
+            "stars": 2488,
+            "topics": [
+              "go",
+              "golang"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Timetagger",
+          "description": "Timetagger is a free open-source time-tracker app with an intuitive user interface, built-in Pomodoro tool, PDF/CSV reporting, a CLI tool, and a developer-friendly web API. It is designed for tracking time across devices and platforms, making it highly relevant for time tracking needs. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tag your time, get the insight",
+            "homepage": "https://timetagger.app",
+            "id": 325533242,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-28T07:50:32Z",
+            "open_issues": 105,
+            "owner": "almarklein",
+            "repo": "timetagger",
+            "stars": 1795,
+            "topics": [
+              "python",
+              "timetracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "Cross Platform Time Tracking"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Traggo",
+          "description": "Minimalist, tag-based time tracking server that revolutionizes time tracking by organizing everything around flexible tags instead of rigid project structures. Self-hosted and privacy-focused. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "self-hosted tag-based time tracking",
+            "homepage": "https://traggo.net",
+            "id": 160964920,
+            "language": "Go",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-27T18:57:49Z",
+            "open_issues": 63,
+            "owner": "traggo",
+            "repo": "server",
+            "stars": 1637,
+            "topics": [
+              "freesoftware",
+              "golang",
+              "privacy",
+              "self-hosted",
+              "selfhosted",
+              "time",
+              "timetracker",
+              "timetracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hakatime",
+          "description": "Self-hosted WakaTime server implementation written in Haskell, offering developers a privacy-first alternative for tracking coding time with beautiful visualizations and data control. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Wakatime server implementation & analytics dashboard",
+            "homepage": "https://hakatime.mtx-dev.xyz",
+            "id": 243290741,
+            "language": "Haskell",
+            "license": "Unlicense",
+            "last_commit": "2024-11-18T22:49:11Z",
+            "open_issues": 25,
+            "owner": "mujx",
+            "repo": "hakatime",
+            "stars": 689,
+            "topics": [
+              "mithriljs",
+              "self-hosted",
+              "servant",
+              "wakatime",
+              "wakatime-dashboard",
+              "wakatime-server"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TimeTracker by DRYTRIX",
+          "description": "Open-source, self-hosted time tracking software designed for individuals and teams who want complete control over their data. Features include project management, invoicing, and detailed reporting without subscription fees. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted time tracking & invoicing for freelancers and teams: timers, projects, PDF and Peppol e-invoicing. Open-source Toggl/Clockify alternative.",
+            "homepage": "https://timetracker.drytrix.com",
+            "id": 1038672519,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-04T09:45:51Z",
+            "open_issues": 5,
+            "owner": "DRYTRIX",
+            "repo": "TimeTracker",
+            "stars": 628,
+            "topics": [
+              "clockify-alternative",
+              "docker",
+              "docker-compose",
+              "docker-image",
+              "e-invoicing",
+              "e-invoicing-compliance",
+              "flask",
+              "flask-application",
+              "invoicing",
+              "invoicing-application",
+              "invoicing-software",
+              "peppol",
+              "peppol-bis",
+              "peppol-network",
+              "self-hosted",
+              "timesheet",
+              "timesheet-app",
+              "timesheet-automation",
+              "timesheets",
+              "toggl-alternative"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TimeCase",
+          "description": "Free, open-source, self-hosted time tracking web application built for privacy-conscious individuals and teams. Offers complete control over data with no third-party dependencies or subscription costs. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted time tracking software",
+            "homepage": null,
+            "id": 452565511,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2023-02-03T13:56:27Z",
+            "open_issues": 4,
+            "owner": "interactive32",
+            "repo": "TimeCase",
+            "stars": 21,
+            "topics": [
+              "self-hosted",
+              "time-tracker",
+              "time-tracking",
+              "timetracking",
+              "tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "Open Source"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "titra",
+          "description": "Modern open-source project time tracking tool for freelancers and small teams. Built with a philosophy of 'Do One Thing And Do It Well,' emphasizing quick time tracking with minimal distractions. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "titra - modern open source project time tracking for freelancers and small teams",
+            "homepage": "https://titraio.github.io/titra/",
+            "id": 76854300,
+            "language": "JavaScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-17T17:11:54Z",
+            "open_issues": 5,
+            "owner": "titraio",
+            "repo": "titra",
+            "stars": 496,
+            "topics": [
+              "docker",
+              "javascript",
+              "meteorjs",
+              "mongodb-database",
+              "node-js",
+              "open-source",
+              "time-keeping",
+              "time-tracking",
+              "wekan"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Baralga",
+          "description": "Lightweight open-source time tracking application for teams that allows recording time on projects using a timer or manual entry with fast data shortcuts, emphasizing simplicity and ease of use. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple and lightweight time tracking for individuals and teams.",
+            "homepage": null,
+            "id": 3570915,
+            "language": "Java",
+            "license": "NOASSERTION",
+            "last_commit": "2026-06-30T05:32:53Z",
+            "open_issues": 41,
+            "owner": "Baralga",
+            "repo": "baralga",
+            "stars": 120,
+            "topics": [
+              "java",
+              "opensource",
+              "time-tracker",
+              "tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Cuckoo Time Tracker",
+          "description": "Self-hosted, minimalist time tracking application with a clean interface designed for quick timer setup without distractions. Features task-to-skill linking, allowing users to track progress toward mastery goals like the 10,000-hour rule for skill development. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Self-hosted time tracking application",
+            "homepage": null,
+            "id": 9258149,
+            "language": "Ruby",
+            "license": null,
+            "last_commit": "2014-08-29T13:03:50Z",
+            "open_issues": 13,
+            "owner": "infosimples",
+            "repo": "cuckoo",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "Open Sources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Toggl Desktop",
+          "description": "Toggl Desktop is an open-source client for Toggl's time tracking platform, offering features such as idle detection, reminders, and a Pomodoro timer to optimize time management. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Toggl Desktop app for Windows, Mac and Linux",
+            "homepage": "https://toggl.github.io/toggldesktop/",
+            "id": 16703726,
+            "language": "C++",
+            "license": "BSD-3-Clause",
+            "last_commit": "2023-06-22T11:56:54Z",
+            "open_issues": 601,
+            "owner": "toggl-open-source",
+            "repo": "toggldesktop",
+            "stars": 1869,
+            "topics": [
+              "desktop",
+              "linux",
+              "macos",
+              "objective-c",
+              "poco",
+              "qt",
+              "swift",
+              "time-tracker",
+              "toggl",
+              "visual-studio",
+              "windows",
+              "wpf"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "django-timepiece",
+          "description": "django-timepiece is a multi-user, open source application for tracking employee time on projects. It provides features such as time sheets, project and business management, dashboards, payroll reporting, and invoicing, making it directly relevant for time tracking needs. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A multi-user Django application for tracking people's time on projects.",
+            "homepage": null,
+            "id": 2506890,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-09-04T12:35:43Z",
+            "open_issues": 68,
+            "owner": "caktus",
+            "repo": "django-timepiece",
+            "stars": 361,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "open-sources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "togglore",
+          "description": "A simple Python tool that compares tracked hours in Toggl with expected working hours over a given period, supporting auditing and workload analysis of time-tracking data. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Documentation for the Toggl API",
+            "homepage": null,
+            "id": 8358883,
+            "language": null,
+            "license": null,
+            "last_commit": "2022-11-28T12:22:01Z",
+            "open_issues": 0,
+            "owner": "toggl",
+            "repo": "toggl_api_docs",
+            "stars": 1391,
+            "topics": [
+              "backend"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TogglPy",
+          "description": "A Python wrapper for the Toggl API that allows developers to integrate Toggl time tracking features into Python applications with a simplified interface. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "TogglPy is a non-cluttered, easily understood and implemented python library for interacting with the Toggl API.",
+            "homepage": null,
+            "id": 34929857,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2023-03-22T15:56:02Z",
+            "open_issues": 6,
+            "owner": "matthewdowney",
+            "repo": "TogglPy",
+            "stars": 149,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "guzzle-toggl",
+          "description": "A PHP library for Toggl API v8 built on the Guzzle HTTP client, allowing PHP applications to integrate with Toggl’s time-tracking features programmatically. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Toggl API client based on guzzle",
+            "homepage": null,
+            "id": 9493962,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-06-11T13:06:13Z",
+            "open_issues": 4,
+            "owner": "arendjantetteroo",
+            "repo": "guzzle-toggl",
+            "stars": 86,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "togglv8",
+          "description": "A Ruby wrapper for the Toggl API v8 that enables Ruby applications and scripts to interact with Toggl time tracking (e.g., managing time entries, projects, and clients). (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ruby wrapper for Toggl API v8",
+            "homepage": "https://rubygems.org/gems/togglv8",
+            "id": 10617279,
+            "language": "Ruby",
+            "license": "MIT",
+            "last_commit": "2022-01-24T20:08:34Z",
+            "open_issues": 12,
+            "owner": "kanet77",
+            "repo": "togglv8",
+            "stars": 81,
+            "topics": [
+              "ruby",
+              "ruby-wrapper",
+              "toggl",
+              "toggl-api"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "togglex",
+          "description": "An Elixir wrapper for Toggl API v8 and the Toggl Reports API, allowing Elixir applications to integrate with Toggl’s time-tracking and reporting capabilities. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Elixir Toggl API Wrapper ",
+            "homepage": null,
+            "id": 52204451,
+            "language": "Elixir",
+            "license": null,
+            "last_commit": "2017-11-23T16:18:43Z",
+            "open_issues": 1,
+            "owner": "diacode",
+            "repo": "togglex",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "JToggl",
+          "description": "A Java wrapper for the Toggl time-tracking API v8, providing an object-oriented interface for integrating Toggl time tracking into Java applications. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Automatically exported from code.google.com/p/jtoggl",
+            "homepage": null,
+            "id": 32312076,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2018-06-28T09:28:07Z",
+            "open_issues": 4,
+            "owner": "bbaumgartner",
+            "repo": "jtoggl",
+            "stars": 16,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "toggl-hammer",
+          "description": "An efficient Python command-line interface for quickly entering time-insensitive Toggl entries, streamlining bulk or approximate time tracking from the terminal. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "toggl command line interface for lazy people.",
+            "homepage": null,
+            "id": 75120275,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2021-08-03T07:35:28Z",
+            "open_issues": 2,
+            "owner": "david-cako",
+            "repo": "toggl-hammer",
+            "stars": 13,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Plasmoggl",
+          "description": "A KDE plasmoid that integrates Toggl Track time tracking into the KDE desktop, allowing users to start and manage Toggl timers directly from their panel. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "KDE Plasmoid for Toggl web application",
+            "homepage": null,
+            "id": 29042218,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2015-03-08T20:06:31Z",
+            "open_issues": 0,
+            "owner": "FedericoVaga",
+            "repo": "plasmoggl",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Toggl-Report-Api",
+          "description": "A Java wrapper for the Toggl Reports API that simplifies accessing and processing detailed time-tracking reports from Toggl in Java applications. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Java Client of Toggl's Reports API",
+            "homepage": null,
+            "id": 82678401,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2024-06-10T18:46:01Z",
+            "open_issues": 2,
+            "owner": "rocketbase-io",
+            "repo": "toggl-report-api",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "others"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "minute",
+          "description": "minute is an open-source time tracking app designed for individuals to monitor and track their time efficiently. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "⏰ The open-source time tracking app for individuals.",
+            "homepage": null,
+            "id": 816791495,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-06T06:17:09Z",
+            "open_issues": 16,
+            "owner": "ktmouk",
+            "repo": "minute",
+            "stars": 260,
+            "topics": [
+              "next-auth",
+              "nextjs",
+              "prisma",
+              "productivity",
+              "t3-stack",
+              "tailwindcss",
+              "time-tracking",
+              "time-tracking-app",
+              "timetracker",
+              "timetracking",
+              "trpc"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "takt",
+          "description": "takt is a simple application for tracking tasks and the time spent on them, aiding in personal productivity and time management. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Track your tasks and time",
+            "homepage": "https://sii.im/playground/takt",
+            "id": 95979771,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2017-11-15T21:37:25Z",
+            "open_issues": 3,
+            "owner": "siimonevans",
+            "repo": "takt",
+            "stars": 159,
+            "topics": [
+              "time-tracker",
+              "time-tracking",
+              "time-tracking-app",
+              "timer",
+              "tracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "timer-5",
+          "description": "timer-5 is a simple time-tracking tool for users who need to log their hours or track time spent on tasks or projects. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple time-tracking tool",
+            "homepage": "https://klaster1.github.io/timer-5",
+            "id": 316935942,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-06-12T15:29:39Z",
+            "open_issues": 1,
+            "owner": "Klaster1",
+            "repo": "timer-5",
+            "stars": 59,
+            "topics": [
+              "time-management",
+              "time-management-app",
+              "time-management-tools",
+              "time-tracker",
+              "time-tracking",
+              "time-tracking-app"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "aitrack.work",
+          "description": "aitrack.work is a minimal, open-source self-hosted task-based time tracker for everyday use, enabling users to organize and monitor time spent on tasks. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A minimal task-based time tracker. All future development of this project has moved to Codeberg.",
+            "homepage": "https://codeberg.org/ttntm/itrack",
+            "id": 335940146,
+            "language": "JavaScript",
+            "license": "GPL-3.0",
+            "last_commit": "2025-04-03T07:29:23Z",
+            "open_issues": 7,
+            "owner": "ttntm",
+            "repo": "itrack",
+            "stars": 38,
+            "topics": [
+              "productivity",
+              "task-list",
+              "time-tracker",
+              "tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "timed",
+          "description": "A time-tracking application monorepo for recording and managing time spent on various tasks. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Monorepo for the Timed time-tracking application",
+            "homepage": "https://timed.dev/",
+            "id": 799833160,
+            "language": "JavaScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-06T10:04:15Z",
+            "open_issues": 261,
+            "owner": "adfinis",
+            "repo": "timed",
+            "stars": 19,
+            "topics": [
+              "time-tracking",
+              "timed"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Minder",
+          "description": "A free assistant and life planner app for people with ADHD, featuring time tracking and effective reminders to help users stay on task. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Assistant & life planner for individuals with weak Executive Functions. (Pre-alpha)",
+            "homepage": "https://erudition.github.io/Minder",
+            "id": 139077320,
+            "language": "Elm",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-09T12:06:11Z",
+            "open_issues": 24,
+            "owner": "Erudition",
+            "repo": "Minder",
+            "stars": 15,
+            "topics": [
+              "android",
+              "calendar",
+              "cross-platform",
+              "real-time",
+              "time-tracker",
+              "todo-list"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Muino Time Management",
+          "description": "A time management and accounting tool for tracking project and task hours, designed for personal and professional use. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Muino Time Management/ accounting tool for keeping track of your hours on projects and tasks.  ",
+            "homepage": "https://sales.muino.nl",
+            "id": 235210658,
+            "language": "TypeScript",
+            "license": "GPL-3.0",
+            "last_commit": "2023-07-18T21:26:28Z",
+            "open_issues": 10,
+            "owner": "martijnvwezel",
+            "repo": "muino-time-management",
+            "stars": 11,
+            "topics": [
+              "api",
+              "api-management",
+              "docker",
+              "hours",
+              "muino",
+              "redis",
+              "time",
+              "time-accounting",
+              "time-sheet",
+              "time-tracker",
+              "timesheet",
+              "timesheets",
+              "timing",
+              "track-time",
+              "tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Dakik",
+          "description": "A simple, cross-platform time and task management app focused on helping users track time and manage their schedules. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple cross platform time and task management app.",
+            "homepage": "https://dakik.herokuapp.com",
+            "id": 75657273,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2018-04-23T06:17:59Z",
+            "open_issues": 0,
+            "owner": "codeaia",
+            "repo": "dakik",
+            "stars": 10,
+            "topics": [
+              "counter",
+              "cross-platform",
+              "meteor",
+              "pomodoro",
+              "productivity",
+              "time-management",
+              "time-tracker",
+              "timer",
+              "trello",
+              "victory",
+              "wunderlist"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Tijd",
+          "description": "A simple open-source time tracker for managing and recording time spent on various tasks. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tijd - Simple time tracker",
+            "homepage": "https://github.com/timoweiss/tijd/releases",
+            "id": 101575843,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2018-04-21T17:46:40Z",
+            "open_issues": 13,
+            "owner": "timoweiss",
+            "repo": "tijd",
+            "stars": 8,
+            "topics": [
+              "ticket-management",
+              "tijd",
+              "time-tracker",
+              "tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "personal-time-tracking"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Topydo",
+          "description": "Powerful command-line todo list application using the todo.txt format with GTD methodology support. Features multiple interface modes including CLI, prompt mode, and a TUI with vim-like bindings, along with advanced tagging for due dates and contexts. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A powerful todo list application for the console, using the todo.txt format.",
+            "homepage": null,
+            "id": 25428376,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-16T18:21:00Z",
+            "open_issues": 77,
+            "owner": "topydo",
+            "repo": "topydo",
+            "stars": 943,
+            "topics": [
+              "bsd",
+              "cli",
+              "cross-platform",
+              "hacktoberfest",
+              "linux",
+              "macos",
+              "open-source",
+              "python",
+              "task",
+              "task-list",
+              "task-manager",
+              "todo",
+              "todoapp",
+              "todotxt",
+              "tui",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "Time Tracking CLI Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lifeos-cli",
+          "description": "Lifeos-cli is a terminal-native application that helps users manage their intentions, habits, and time logs through an agent-friendly interface. It uses a PostgreSQL backend for data storage and is designed for productivity tracking via command line. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Terminal-native LifeOS with an optional local Web UI for tasks, notes, habits, schedules, timelogs, relationships, and human-agent collaboration.",
+            "homepage": null,
+            "id": 1205537709,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-06T05:32:34Z",
+            "open_issues": 2,
+            "owner": "lifeos-plus",
+            "repo": "lifeos-cli",
+            "stars": 14,
+            "topics": [
+              "agentic-workflows",
+              "ai-agents",
+              "cli",
+              "fastapi",
+              "habit-tracking",
+              "lifeos",
+              "local-first",
+              "note-taking",
+              "personal-crm",
+              "postgresql",
+              "python",
+              "quantified-self",
+              "react",
+              "schedule-management",
+              "second-brain",
+              "sqlite",
+              "task-management",
+              "time-tracking",
+              "vite",
+              "web-ui"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "Time Tracking Tool"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Toggl Track Button",
+          "description": "Open-source browser extension that adds a Toggl Track time tracking button to various web tools and services, allowing users to start and stop timers directly from their workflow. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Toggl Track browser extension for Chrome and Firefox",
+            "homepage": "http://toggl.github.io/track-extension",
+            "id": 10452358,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-10T17:00:53Z",
+            "open_issues": 375,
+            "owner": "toggl",
+            "repo": "track-extension",
+            "stars": 1150,
+            "topics": [
+              "chrome",
+              "chrome-extension",
+              "firefox",
+              "firefox-addon",
+              "javascript",
+              "toggl"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Qmonix Lua SDK",
+          "description": "The Qmonix Lua SDK is a Lua client library for sending events and metrics, such as time-tracking task durations, from applications like Awesome Time Tracker to a Qmonix analytics server. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Qmonix SDK lua client.",
+            "homepage": null,
+            "id": 19207302,
+            "language": "Lua",
+            "license": null,
+            "last_commit": "2014-04-28T06:21:23Z",
+            "open_issues": 0,
+            "owner": "qmonix",
+            "repo": "client-lua",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "time-tracking-apis-integrations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Watson",
+          "description": "Watson is a command-line interface (CLI) time tracking app for Linux and macOS, designed to help users track and manage their time efficiently. It is open-source and ideal for developers and users who prefer terminal-based workflows. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":watch: A wonderful CLI to track your time!",
+            "homepage": "http://jazzband.github.io/Watson/",
+            "id": 32409676,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-12-15T17:11:23Z",
+            "open_issues": 143,
+            "owner": "jazzband",
+            "repo": "Watson",
+            "stars": 2539,
+            "topics": [
+              "cli",
+              "project-management",
+              "time-tracker",
+              "timetracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Timetrap",
+          "description": "Timetrap is a Ruby-based command-line time tracker that offers a simple interface for tracking how time is spent on various activities. It is open-source and optimized for quick, terminal-based usage. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple command line timetracker",
+            "homepage": "http://rubygems.org/gems/timetrap",
+            "id": 174603,
+            "language": "Ruby",
+            "license": "NOASSERTION",
+            "last_commit": "2025-03-12T20:07:55Z",
+            "open_issues": 33,
+            "owner": "samg",
+            "repo": "timetrap",
+            "stars": 1510,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Bartib",
+          "description": "Bartib is a command-line time tracking tool that logs activities in plaintext files and provides flexible reporting options, making it suitable for straightforward personal time tracking. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.",
+            "homepage": null,
+            "id": 336082137,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-03-25T10:22:10Z",
+            "open_issues": 19,
+            "owner": "nikolassv",
+            "repo": "bartib",
+            "stars": 851,
+            "topics": [
+              "cli",
+              "cli-app",
+              "cli-apps",
+              "command-line",
+              "command-line-app",
+              "command-line-application",
+              "command-line-tool",
+              "productivity",
+              "rust",
+              "time-tracker",
+              "time-tracking",
+              "time-tracking-tool",
+              "time-tracking-tools"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "timetrace",
+          "description": "timetrace is a free and open-source CLI tool for tracking working time, offering simple and efficient time logging directly from the command line. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple CLI for tracking your working time.",
+            "homepage": null,
+            "id": 366489526,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2024-06-28T03:43:49Z",
+            "open_issues": 56,
+            "owner": "dominikbraun",
+            "repo": "timetrace",
+            "stars": 794,
+            "topics": [
+              "cli",
+              "hacktoberfest",
+              "time-tracker",
+              "time-tracking",
+              "timetracker",
+              "timetracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "klog",
+          "description": "klog is a simple, open-source time-tracking tool that uses plain-text files for logging hours. It’s lightweight, privacy-respecting, and integrates smoothly with command-line tools, making it ideal for users who want a customizable time tracking experience. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Command-line tool for time tracking in a human-readable, plain-text file format.",
+            "homepage": "https://klog.jotaen.net",
+            "id": 318172685,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-17T09:44:14Z",
+            "open_issues": 1,
+            "owner": "jotaen",
+            "repo": "klog",
+            "stars": 686,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "file-format",
+              "fileformat",
+              "klog",
+              "plain-text",
+              "plaintext",
+              "time-tracker",
+              "time-tracking",
+              "time-tracking-tool"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Zeit",
+          "description": "Zeit is a command-line tool for tracking time spent on tasks and projects. It is open-source and provides a straightforward interface for managing and recording time usage. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zeit, erfassen. A command line tool for tracking time. (https://tty.fail/mrus/zeit)",
+            "homepage": "https://zeit.observer",
+            "id": 302966455,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-09T15:36:22Z",
+            "open_issues": 0,
+            "owner": "mrusme",
+            "repo": "zeit",
+            "stars": 591,
+            "topics": [
+              "activity-tracker",
+              "activity-tracking",
+              "command-line",
+              "command-line-interface",
+              "command-line-tool",
+              "commandline",
+              "commandline-interface",
+              "commandline-tool",
+              "productivity",
+              "segv",
+              "segv-license",
+              "terminal-based",
+              "time",
+              "time-tracker",
+              "time-tracking",
+              "toggl",
+              "tracking",
+              "tui",
+              "tyme",
+              "zeit"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "toggl-cli",
+          "description": "A simple command-line interface for toggl.com, enabling users to track time via the Toggl service from the terminal. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple command-line interface for toggl.com",
+            "homepage": "https://toggl.uhlir.dev",
+            "id": 4233630,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2025-11-02T20:37:48Z",
+            "open_issues": 26,
+            "owner": "AuHau",
+            "repo": "toggl-cli",
+            "stars": 403,
+            "topics": [
+              "cli",
+              "python",
+              "time-tracking",
+              "toggl"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Ultimate Time Tracker",
+          "description": "Ultimate Time Tracker (utt) is a simple Python-based command-line application for tracking time, designed for users seeking straightforward time logging. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ultimate Time Tracker - A simple command-line time tracker written in Python",
+            "homepage": null,
+            "id": 11243271,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-01-08T06:42:27Z",
+            "open_issues": 1,
+            "owner": "larose",
+            "repo": "utt",
+            "stars": 351,
+            "topics": [
+              "command-line-app",
+              "python",
+              "time-tracker",
+              "timesheet",
+              "timetracker"
+            ]
+          },
+          "first_seen": "2026-08-28T21:29:47.440Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gtm",
+          "description": "gtm (Git Task Manager) is a tool for tracking tasks and time directly through git, suitable for developers seeking integrated time management. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":stopwatch: git task/time manager",
+            "homepage": null,
+            "id": 8855986,
+            "language": "Shell",
+            "license": null,
+            "last_commit": "2015-04-04T14:54:04Z",
+            "open_issues": 9,
+            "owner": "laughedelic",
+            "repo": "gtm",
+            "stars": 90,
+            "topics": [
+              "git",
+              "git-addons",
+              "git-extension",
+              "git-hooks",
+              "git-notes",
+              "github-issues",
+              "task-management",
+              "task-manager",
+              "time-tracker",
+              "time-tracking",
+              "time-tracking-app"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RTW",
+          "description": "RTW (Rust Time Watcher) is a free and open-source command-line time tracker written in Rust. It provides simple time-tracking capabilities directly from the terminal. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "rust time tracker CLI tool",
+            "homepage": null,
+            "id": 230246189,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2022-06-06T19:41:24Z",
+            "open_issues": 2,
+            "owner": "PicoJr",
+            "repo": "rtw",
+            "stars": 45,
+            "topics": [
+              "cli",
+              "command-line-tool",
+              "linux",
+              "rust",
+              "time-tracker",
+              "timeline",
+              "tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Chrono",
+          "description": "Chrono is a fast, Go-based time tracking tool with a simple interface, suitable for users who need efficient and straightforward time logging. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fast time tracking tool made with love",
+            "homepage": null,
+            "id": 152128920,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2021-03-25T22:30:55Z",
+            "open_issues": 10,
+            "owner": "gochrono",
+            "repo": "chrono",
+            "stars": 38,
+            "topics": [
+              "chrono",
+              "cli",
+              "go",
+              "golang",
+              "linux",
+              "linux-cli",
+              "time-tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "billwarrior",
+          "description": "An extension for Timewarrior that generates invoices in LaTeX format based on tracked time data. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "A Timewarrior report extension for generating invoices in LaTeX",
+            "homepage": null,
+            "id": 146044321,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2021-09-23T17:06:13Z",
+            "open_issues": 4,
+            "owner": "sw00",
+            "repo": "billwarrior",
+            "stars": 31,
+            "topics": [
+              "cli",
+              "invoice-generator",
+              "invoice-pdf",
+              "time-tracker",
+              "timewarrior"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PyTM",
+          "description": "A Python CLI time tracker with invoice generation, ideal for freelancers and professionals needing simple time tracking and billing. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Python :snake: :three: CLI time tracker with invoice generation",
+            "homepage": "https://pytm.readthedocs.io/",
+            "id": 154284378,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-25T15:39:34Z",
+            "open_issues": 0,
+            "owner": "wasi0013",
+            "repo": "PyTM",
+            "stars": 17,
+            "topics": [
+              "billing",
+              "cli",
+              "click",
+              "hacktoberfest",
+              "invoice",
+              "invoice-generator",
+              "python-pytm",
+              "python3",
+              "python312",
+              "rich",
+              "time",
+              "time-tracker",
+              "time-tracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ts",
+          "description": "An open-source, text-based timesheet parser for contractors to track work hours in a programmer-friendly format using parseable text files. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Text-based timesheet parser",
+            "homepage": null,
+            "id": 41447595,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2021-03-25T21:38:35Z",
+            "open_issues": 1,
+            "owner": "ses4j",
+            "repo": "ts",
+            "stars": 15,
+            "topics": [
+              "invoice",
+              "time-tracker",
+              "timesheet"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "trak",
+          "description": "A tool to keep a record of time dedicated to projects, suitable for tracking productivity and project time allocation. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Keep a record of the time you dedicate to your projects. ⚠️ Under HEAVY active development ⚠️",
+            "homepage": "https://usetrak.com",
+            "id": 700575539,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-01-22T20:36:14Z",
+            "open_issues": 25,
+            "owner": "lcfd",
+            "repo": "trak",
+            "stars": 13,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "python",
+              "report",
+              "time",
+              "time-tracking",
+              "tracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ha-toggl-track",
+          "description": "A custom component that integrates Toggl Track API with Home Assistant for tracking time. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Custom component that integrates basics of Toggl Track API with Home Assistant",
+            "homepage": null,
+            "id": 736000291,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-19T07:06:10Z",
+            "open_issues": 17,
+            "owner": "kquinsland01",
+            "repo": "ha-toggl-track",
+            "stars": 9,
+            "topics": [
+              "hacs-integration",
+              "home-assistant",
+              "home-automation",
+              "time-tracking",
+              "toggl"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "litt",
+          "description": "A low-intrusion CLI time tracker with a minimal workflow, REST API, and simple JSON storage for easy integration. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Low-intrusion time tracking with minimal workflow footprint, a CLI interface, basic REST API, and a single JSON file DB for painless interop.",
+            "homepage": null,
+            "id": 113866579,
+            "language": "Python",
+            "license": "MPL-2.0",
+            "last_commit": "2021-03-09T07:45:37Z",
+            "open_issues": 7,
+            "owner": "Riebart",
+            "repo": "litt",
+            "stars": 9,
+            "topics": [
+              "cli",
+              "python",
+              "stopwatch",
+              "time-tracking",
+              "workflow"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "rtrackr",
+          "description": "rtrackr is a time tracking application written in Rust, offering a fast and efficient way to monitor time spent on tasks. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Time tracking app written in Rust",
+            "homepage": null,
+            "id": 218026157,
+            "language": "Rust",
+            "license": null,
+            "last_commit": "2023-02-04T00:41:59Z",
+            "open_issues": 7,
+            "owner": "Nachasic",
+            "repo": "rtrackr",
+            "stars": 8,
+            "topics": [
+              "rust-lang",
+              "time-tracker",
+              "time-tracking-app",
+              "tui",
+              "xlib",
+              "xorg"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Time Tracking",
+          "description": "A simple command line tool for tracking project timer records, suitable for lightweight and scriptable time tracking needs. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": ":mag: This project has been archived & renamed Marathon (mediashare/marathon). :dizzy: Time-Tracking is a simple command line tool for project timer tracking.",
+            "homepage": "https://mediashare.fr/post/time-tracking/",
+            "id": 215861695,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2023-12-12T21:16:22Z",
+            "open_issues": 0,
+            "owner": "privatorosy",
+            "repo": "time-tracking",
+            "stars": 8,
+            "topics": [
+              "application",
+              "command-line",
+              "php",
+              "project-management",
+              "symfony",
+              "time-tracker",
+              "time-tracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Doug",
+          "description": "Doug is a command-line time tracking utility that helps users track their work hours and tasks efficiently from the terminal. Suitable for developers and users who prefer CLI-based time management tools. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":hourglass: A time tracking command-line utility",
+            "homepage": "http://crates.io/crates/doug",
+            "id": 105420173,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2019-03-22T22:09:27Z",
+            "open_issues": 3,
+            "owner": "getdoug",
+            "repo": "doug",
+            "stars": 7,
+            "topics": [
+              "command-line",
+              "rust",
+              "time-tracker",
+              "utility"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "time-task-tracker",
+          "description": "time-task-tracker is an application with offline storage designed to track time spent on Jira tasks. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Application with offline storage for tracking Jira tasks time",
+            "homepage": "https://time-task-tracker.netlify.app/",
+            "id": 495110821,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-03-16T20:50:47Z",
+            "open_issues": 5,
+            "owner": "karlosos",
+            "repo": "time-task-tracker",
+            "stars": 7,
+            "topics": [
+              "time-tracker",
+              "time-tracker-app",
+              "time-tracking-app",
+              "todoapp-react",
+              "todolist"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "thymed",
+          "description": "A simple time-tracking tool written in pure Python, suitable for basic time tracking needs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple time-tracking in pure python.",
+            "homepage": null,
+            "id": 510394942,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-04-01T00:36:20Z",
+            "open_issues": 13,
+            "owner": "Czarified",
+            "repo": "thymed",
+            "stars": 2,
+            "topics": [
+              "python",
+              "time",
+              "time-tracking",
+              "tracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "simple-task-tracker",
+          "description": "A command-line application to track tasks, including start times, finish times, and durations for effective time management. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A command-line interface (CLI) application to keep track of your tasks, their starting time, finishing time and their durations.",
+            "homepage": "https://pypi.org/project/simple-task-tracker/",
+            "id": 848496431,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-04-26T17:09:02Z",
+            "open_issues": 0,
+            "owner": "ismailbenhallam",
+            "repo": "simple-task-tracker",
+            "stars": 1,
+            "topics": [
+              "task",
+              "time",
+              "time-tracking",
+              "tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tracktime",
+          "description": "A CLI program allowing users to track time on various tasks directly from the command line. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A CLI program that allows you to track time on tasks.",
+            "homepage": null,
+            "id": 452349592,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-23T12:14:32Z",
+            "open_issues": 4,
+            "owner": "sumnerevans",
+            "repo": "tracktime",
+            "stars": 1,
+            "topics": [
+              "command-line",
+              "csv",
+              "time-tracking"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "worklog",
+          "description": "A tool designed to record every minute of your time, including integration with Jira. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "It is for when you want to record every minute and jira of your time",
+            "homepage": null,
+            "id": 921767460,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-07-06T06:44:51Z",
+            "open_issues": 0,
+            "owner": "UgurcanAkkok",
+            "repo": "worklog",
+            "stars": 1,
+            "topics": [
+              "jira",
+              "productivity",
+              "time-tracking",
+              "worklog"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "time-tracking-cli-tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EyeFul",
+          "description": "A universal, single-page application for time tracking, offering features for effective time management and analysis. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Time tracking SPA",
+            "homepage": "https://marwanalsoltany.github.io/eyeful/#/?",
+            "id": 234232839,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2023-10-28T03:07:30Z",
+            "open_issues": 3,
+            "owner": "MarwanAlsoltany",
+            "repo": "eyeful",
+            "stars": 6,
+            "topics": [
+              "application",
+              "spa",
+              "time",
+              "time-tracker",
+              "timetracker",
+              "todo-list",
+              "todolist",
+              "todos",
+              "tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tasktime",
+          "description": "tasktime is a sample web app for task and time tracking, built with Svelte, Firebase, and Bulma for UI and authentication. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Sample task/time-tracking web-app to evaluate Svelte (reactive UI), Firebase (auth, hosted real-time document store), Bulma (CSS)",
+            "homepage": "https://github.com/vogler/web-tech",
+            "id": 223168020,
+            "language": "Svelte",
+            "license": null,
+            "last_commit": "2023-07-12T03:50:51Z",
+            "open_issues": 11,
+            "owner": "vogler",
+            "repo": "tasktime-2019",
+            "stars": 6,
+            "topics": [
+              "firebase",
+              "firebase-auth",
+              "firebase-firestore",
+              "firestore",
+              "svelte",
+              "time-tracker",
+              "time-tracking-app",
+              "timer",
+              "todo",
+              "todoapp"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Time_Tracker",
+          "description": "A simple web-based time tracker built with Dash and Plotly, supporting NFC-based clock-ins via phone. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple web interface based on Dash and Plotly, using NFC and a phone to do a simple time tracker. ",
+            "homepage": null,
+            "id": 349105241,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2021-03-25T00:14:32Z",
+            "open_issues": 0,
+            "owner": "AdrienLF",
+            "repo": "Time_Tracker",
+            "stars": 6,
+            "topics": [
+              "automation",
+              "ios",
+              "nfc",
+              "shortcuts",
+              "time-tracker"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
+          "title": "deep-pomo",
+          "description": "A lightweight web app that boosts productivity using the Pomodoro technique, incorporating time-tracking features. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A lightweight web app designed to boost productivity using the Pomodoro technique. Built with Next.js (React) for the frontend, styled with Tailwind CSS, powered by a FastAPI (Python) backend, and using PostgreSQL for storage.",
+            "homepage": null,
+            "id": 947890993,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-03-19T22:31:19Z",
+            "open_issues": 0,
+            "owner": "BlueBirdBack",
+            "repo": "deep-pomo",
+            "stars": 0,
+            "topics": [
+              "adhd",
+              "fastapi",
+              "full-stack",
+              "ltree",
+              "mvp",
+              "nextjs",
+              "pomodoro",
+              "postgresql",
+              "productivity",
+              "python",
+              "react",
+              "tailwindcss",
+              "task-management",
+              "time-tracking",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        }
+      ],
+      "title": "web-based-time-tracking"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:57:33.234Z",
+    "last_updated": "2026-10-06T10:48:40.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
@@ -148,10 +2730,10 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-08-04T21:55:35Z",
-      "open_issues": 12,
+      "open_issues": 14,
       "owner": "ever-works",
       "repo": "awesome-time-tracking",
-      "stars": 229,
+      "stars": 230,
       "topics": [
         "awesome",
         "awesome-list",
