@@ -589,7 +589,7 @@
             "id": 983114632,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-22T18:34:59Z",
+            "last_commit": "2026-10-06T13:37:14Z",
             "open_issues": 0,
             "owner": "ever-works",
             "repo": "awesome-time-tracking-data",
@@ -834,7 +834,7 @@
             "open_issues": 46,
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3557,
+            "stars": 3556,
             "topics": [
               "macos",
               "menubar",
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:48:40.902Z",
+    "last_updated": "2026-10-06T17:22:18.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",

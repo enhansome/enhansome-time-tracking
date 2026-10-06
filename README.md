@@ -4,7 +4,7 @@ A curated list of time tracking applications, libraries, and tools.
 
 ## 🔥 Acknowledgements
 
-This directory was built and is maintained using the [Ever Works](https://ever.works) platform with source code available with AGPLv3 license: <https://github.com/ever-works/ever-works> ⭐ 157 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-05.
+This directory was built and is maintained using the [Ever Works](https://ever.works) platform with source code available with AGPLv3 license: <https://github.com/ever-works/ever-works> ⭐ 158 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-05.
 
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/directory-web-template) ⭐ 20 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-05.
 
@@ -2173,7 +2173,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## time-tracking-overview-resources
 
-* [Awesome Time Tracking Data](https://github.com/ever-works/awesome-time-tracking-data) ⭐ 3 | 🐛 0 | 📅 2026-08-22 - A machine-readable dataset of tools, software, methodologies, and practices for time tracking, used as the structured data backend for the timetrack.works "Awesome Time Tracking" directory. ([Read more](/details/awesome-time-tracking-data.md)) `Open Source` `reference` `software-list`
+* [Awesome Time Tracking Data](https://github.com/ever-works/awesome-time-tracking-data) ⭐ 3 | 🐛 0 | 📅 2026-10-06 - A machine-readable dataset of tools, software, methodologies, and practices for time tracking, used as the structured data backend for the timetrack.works "Awesome Time Tracking" directory. ([Read more](/details/awesome-time-tracking-data.md)) `Open Source` `reference` `software-list`
 * [API integrations for Time Tracking Software](https://www.revelo.com/blog/api-integration) - API integrations enable time tracking software to connect with project management, accounting, and payroll platforms. This integration allows for seamless data flow and reduces administrative overhead, making time tracking more efficient and valuable for organizations. ([Read more](/details/api-integrations-for-time-tracking-software.md)) `Api` `Integration` `Project Management` `Payroll` `Accounting`
 * [Automated Time Tracking](https://toggl.com/) - A category of time tracking solutions that automatically capture and record time spent on tasks, applications, and projects with minimal manual input. These tools typically run in the background to track activity, helping users and teams accurately log billable hours, improve productivity analysis, and reduce the administrative overhead of manual time entries. ([Read more](/details/automated-time-tracking.md)) `overview` `Automatic Tracking`
 * [Awesome Time Tracking](https://github.com/ever-works/awesome-time-tracking) - A curated directory of time tracking applications, libraries, and tools, covering software, methodologies, and practices for effective time management. Includes both open-source and commercial solutions, with licensing information tags for open-source entries. ([Read more](/details/awesome-time-tracking.md)) `overview` `reference` `Open Source` `commerce` `directory`
@@ -2451,7 +2451,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Countdown & Interval Timers
 
 * [Pomotroid](https://github.com/Splode/pomotroid) ⭐ 5,528 | 🐛 132 | 🌐 Rust | 📅 2026-09-07 - Simple and visually-pleasing Pomodoro timer desktop application built with Electron. Features customizable themes, timer controls, and desktop notifications to help users track productivity using the Pomodoro Technique. ([Read more](/details/pomotroid.md)) `Open Source` `Pomodoro` `Desktop`
-* [TomatoBar](https://github.com/ivoronin/TomatoBar) ⭐ 3,557 | 🐛 46 | 🌐 Swift | 📅 2026-05-29 - World's neatest Pomodoro timer for macOS menu bar. A minimal, elegant Pomodoro timer that lives in your Mac's menu bar with configurable work and rest intervals, optional sounds, and global hotkey support. ([Read more](/details/tomatobar.md)) `macOS` `Pomodoro` `Open Source`
+* [TomatoBar](https://github.com/ivoronin/TomatoBar) ⭐ 3,556 | 🐛 46 | 🌐 Swift | 📅 2026-05-29 - World's neatest Pomodoro timer for macOS menu bar. A minimal, elegant Pomodoro timer that lives in your Mac's menu bar with configurable work and rest intervals, optional sounds, and global hotkey support. ([Read more](/details/tomatobar.md)) `macOS` `Pomodoro` `Open Source`
 * [Deep Work Timer](https://www.deepworktimer.io/) - Collaborative deep work tool combining pomodoro timers with social accountability features, heatmaps, habit tracking, and community challenges inspired by Cal Newport's deep work principles. ([Read more](/details/deep-work-timer.md)) `Deep Work` `Pomodoro` `collaborative` `Habit Tracking`
 * [Flow](https://www.flow.app/) - Pomodoro-based focus timer for Apple devices trusted by over 500,000 individuals and teams. Features app blocking, calendar sync, Apple Health integration, and widgets for all Apple platforms. ([Read more](/details/flow-app.md)) `Pomodoro` `Focus` `Apple` `Productivity`
 * [Flow - Focus & Pomodoro Timer](https://www.flow.app/) - Simple, beautiful Pomodoro timer app with to-do list integration, app blocking, and Apple ecosystem sync. Free with no ads, no sign-up required. ([Read more](/details/flow-focus-pomodoro-timer.md)) `Pomodoro` `Focus` `Free` `iOS`
