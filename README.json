@@ -16,7 +16,7 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2026-09-21T16:55:53Z",
-            "open_issues": 26,
+            "open_issues": 28,
             "owner": "WINBIGFOX",
             "repo": "TimeScribe",
             "stars": 912,
@@ -937,7 +937,7 @@
             "open_issues": 0,
             "owner": "charmbracelet",
             "repo": "charm",
-            "stars": 2488,
+            "stars": 2487,
             "topics": [
               "go",
               "golang"
@@ -991,7 +991,7 @@
             "open_issues": 63,
             "owner": "traggo",
             "repo": "server",
-            "stars": 1637,
+            "stars": 1638,
             "topics": [
               "freesoftware",
               "golang",
@@ -1045,11 +1045,11 @@
             "id": 1038672519,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T09:45:51Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-07T04:52:04Z",
+            "open_issues": 3,
             "owner": "DRYTRIX",
             "repo": "TimeTracker",
-            "stars": 628,
+            "stars": 631,
             "topics": [
               "clockify-alternative",
               "docker",
@@ -1208,7 +1208,7 @@
             "open_issues": 601,
             "owner": "toggl-open-source",
             "repo": "toggldesktop",
-            "stars": 1869,
+            "stars": 1867,
             "topics": [
               "desktop",
               "linux",
@@ -1467,7 +1467,7 @@
             "id": 816791495,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T06:17:09Z",
+            "last_commit": "2026-10-07T13:01:05Z",
             "open_issues": 16,
             "owner": "ktmouk",
             "repo": "minute",
@@ -1581,11 +1581,11 @@
             "id": 799833160,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T10:04:15Z",
+            "last_commit": "2026-10-07T10:36:14Z",
             "open_issues": 261,
             "owner": "adfinis",
             "repo": "timed",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "time-tracking",
               "timed"
@@ -1736,7 +1736,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T18:21:00Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "topydo",
             "repo": "topydo",
             "stars": 943,
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T17:22:18.722Z",
+    "last_updated": "2026-10-07T17:56:33.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
@@ -2733,7 +2733,7 @@
       "open_issues": 14,
       "owner": "ever-works",
       "repo": "awesome-time-tracking",
-      "stars": 230,
+      "stars": 231,
       "topics": [
         "awesome",
         "awesome-list",
