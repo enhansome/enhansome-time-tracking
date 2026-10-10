@@ -242,7 +242,7 @@
             "id": 508700551,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T04:09:28Z",
+            "last_commit": "2026-10-09T20:56:00Z",
             "open_issues": 25,
             "owner": "tegonal",
             "repo": "Lasius",
@@ -800,8 +800,8 @@
             "id": 119006816,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-07T23:38:41Z",
-            "open_issues": 133,
+            "last_commit": "2026-10-09T22:44:23Z",
+            "open_issues": 132,
             "owner": "Splode",
             "repo": "pomotroid",
             "stars": 5535,
@@ -834,7 +834,7 @@
             "open_issues": 46,
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3558,
+            "stars": 3560,
             "topics": [
               "macos",
               "menubar",
@@ -1046,10 +1046,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-07T04:52:04Z",
-            "open_issues": 4,
+            "open_issues": 7,
             "owner": "DRYTRIX",
             "repo": "TimeTracker",
-            "stars": 632,
+            "stars": 633,
             "topics": [
               "clockify-alternative",
               "docker",
@@ -1467,7 +1467,7 @@
             "id": 816791495,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T05:58:56Z",
+            "last_commit": "2026-10-10T14:15:34Z",
             "open_issues": 17,
             "owner": "ktmouk",
             "repo": "minute",
@@ -1933,7 +1933,7 @@
             "open_issues": 19,
             "owner": "nikolassv",
             "repo": "bartib",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "cli",
               "cli-app",
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:31:39.225Z",
+    "last_updated": "2026-10-10T16:21:24.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
@@ -2733,7 +2733,7 @@
       "open_issues": 14,
       "owner": "ever-works",
       "repo": "awesome-time-tracking",
-      "stars": 231,
+      "stars": 232,
       "topics": [
         "awesome",
         "awesome-list",
