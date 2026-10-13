@@ -646,7 +646,7 @@
             "open_issues": 5,
             "owner": "eerovil",
             "repo": "TrackLater",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "flask",
               "git",
@@ -804,7 +804,7 @@
             "open_issues": 133,
             "owner": "Splode",
             "repo": "pomotroid",
-            "stars": 5538,
+            "stars": 5544,
             "topics": [
               "pomodoro",
               "pomodoro-technique",
@@ -895,7 +895,7 @@
             "open_issues": 0,
             "owner": "TBosak",
             "repo": "notomato",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "angular",
               "dexiejs",
@@ -961,7 +961,7 @@
             "open_issues": 105,
             "owner": "almarklein",
             "repo": "timetagger",
-            "stars": 1797,
+            "stars": 1796,
             "topics": [
               "python",
               "timetracker"
@@ -991,7 +991,7 @@
             "open_issues": 63,
             "owner": "traggo",
             "repo": "server",
-            "stars": 1639,
+            "stars": 1640,
             "topics": [
               "freesoftware",
               "golang",
@@ -1045,7 +1045,7 @@
             "id": 1038672519,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T07:07:00Z",
+            "last_commit": "2026-10-13T08:59:50Z",
             "open_issues": 1,
             "owner": "DRYTRIX",
             "repo": "TimeTracker",
@@ -1120,7 +1120,7 @@
             "id": 76854300,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-17T17:11:54Z",
+            "last_commit": "2026-10-13T07:51:02Z",
             "open_issues": 5,
             "owner": "titraio",
             "repo": "titra",
@@ -1208,7 +1208,7 @@
             "open_issues": 601,
             "owner": "toggl-open-source",
             "repo": "toggldesktop",
-            "stars": 1866,
+            "stars": 1867,
             "topics": [
               "desktop",
               "linux",
@@ -1467,7 +1467,7 @@
             "id": 816791495,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T14:29:26Z",
+            "last_commit": "2026-10-13T09:10:04Z",
             "open_issues": 16,
             "owner": "ktmouk",
             "repo": "minute",
@@ -1581,8 +1581,8 @@
             "id": 799833160,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T11:42:08Z",
-            "open_issues": 263,
+            "last_commit": "2026-10-13T15:10:07Z",
+            "open_issues": 264,
             "owner": "adfinis",
             "repo": "timed",
             "stars": 20,
@@ -1912,7 +1912,7 @@
             "open_issues": 33,
             "owner": "samg",
             "repo": "timetrap",
-            "stars": 1511,
+            "stars": 1512,
             "topics": []
           },
           "first_seen": "2026-10-06T10:48:40.902Z"
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:24:17.097Z",
+    "last_updated": "2026-10-13T18:27:42.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
