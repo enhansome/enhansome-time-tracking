@@ -152,11 +152,11 @@
             "id": 433874407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T20:18:32Z",
+            "last_commit": "2026-10-15T14:24:04Z",
             "open_issues": 2,
             "owner": "saeloun",
             "repo": "miru-web",
-            "stars": 268,
+            "stars": 267,
             "topics": [
               "client-invoiving",
               "hacktoberbest2023",
@@ -242,7 +242,7 @@
             "id": 508700551,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T14:10:23Z",
+            "last_commit": "2026-10-15T15:31:02Z",
             "open_issues": 25,
             "owner": "tegonal",
             "repo": "Lasius",
@@ -804,7 +804,7 @@
             "open_issues": 133,
             "owner": "Splode",
             "repo": "pomotroid",
-            "stars": 5545,
+            "stars": 5546,
             "topics": [
               "pomodoro",
               "pomodoro-technique",
@@ -834,7 +834,7 @@
             "open_issues": 48,
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3565,
+            "stars": 3566,
             "topics": [
               "macos",
               "menubar",
@@ -961,7 +961,7 @@
             "open_issues": 105,
             "owner": "almarklein",
             "repo": "timetagger",
-            "stars": 1798,
+            "stars": 1799,
             "topics": [
               "python",
               "timetracker"
@@ -1467,7 +1467,7 @@
             "id": 816791495,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T09:10:04Z",
+            "last_commit": "2026-10-15T06:55:37Z",
             "open_issues": 16,
             "owner": "ktmouk",
             "repo": "minute",
@@ -1581,8 +1581,8 @@
             "id": 799833160,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T15:10:07Z",
-            "open_issues": 264,
+            "last_commit": "2026-10-14T17:07:02Z",
+            "open_issues": 267,
             "owner": "adfinis",
             "repo": "timed",
             "stars": 20,
@@ -2029,7 +2029,7 @@
             "open_issues": 0,
             "owner": "mrusme",
             "repo": "zeit",
-            "stars": 591,
+            "stars": 592,
             "topics": [
               "activity-tracker",
               "activity-tracking",
@@ -2293,12 +2293,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Keep a record of the time you dedicate to your projects. ⚠️ Under HEAVY active development ⚠️",
+            "description": "⚠️ Under HEAVY development ⚠️ --- Keep a record of the time you dedicate to your projects.",
             "homepage": "https://usetrak.com",
             "id": 700575539,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-01-22T20:36:14Z",
+            "last_commit": "2026-10-15T10:30:07Z",
             "open_issues": 25,
             "owner": "lcfd",
             "repo": "trak",
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:56:21.494Z",
+    "last_updated": "2026-10-15T15:42:13.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
@@ -2733,7 +2733,7 @@
       "open_issues": 15,
       "owner": "ever-works",
       "repo": "awesome-time-tracking",
-      "stars": 232,
+      "stars": 234,
       "topics": [
         "awesome",
         "awesome-list",
