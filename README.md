@@ -4,9 +4,9 @@ A curated list of time tracking applications, libraries, and tools.
 
 ## 🔥 Acknowledgements
 
-This directory was built and is maintained using the [Ever Works](https://ever.works) platform with source code available with AGPLv3 license: <https://github.com/ever-works/ever-works> ⭐ 170 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-17.
+This directory was built and is maintained using the [Ever Works](https://ever.works) platform with source code available with AGPLv3 license: <https://github.com/ever-works/ever-works> ⭐ 170 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-18.
 
-The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/directory-web-template) ⭐ 20 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-09.
+The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/directory-web-template) ⭐ 20 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-18.
 
 ## 📑 Table of Contents
 
@@ -954,7 +954,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Time Tracking Software
 
-* [TimeScribe](https://github.com/WINBIGFOX/TimeScribe) ⭐ 916 | 🐛 28 | 🌐 PHP | 📅 2026-09-21 - A modern and private time tracking application for macOS and Windows that operates 100% offline with no cloud, no registration, and no paywall, offering simple controls, automation features, and detailed insights for managing work hours. ([Read more](/details/timescribe.md)) `Open Source` `Privacy` `Offline` `Desktop`
+* [TimeScribe](https://github.com/WINBIGFOX/TimeScribe) ⭐ 917 | 🐛 28 | 🌐 PHP | 📅 2026-09-21 - A modern and private time tracking application for macOS and Windows that operates 100% offline with no cloud, no registration, and no paywall, offering simple controls, automation features, and detailed insights for managing work hours. ([Read more](/details/timescribe.md)) `Open Source` `Privacy` `Offline` `Desktop`
 * [utt (Ultimate Time Tracker)](https://github.com/larose/utt) ⭐ 351 | 🐛 1 | 🌐 Python | 📅 2026-01-08 - A simple command-line time tracking application written in Python for freelancers and consultants who need to track time and generate reports for another system. Features activity categorization into working, break, and ignored types with customizable reporting. ([Read more](/details/utt-ultimate-time-tracker-cli.md)) `Command Line` `Open Source` `Terminal` `Linux`
 * [Nautilus Roam Research Extension](https://github.com/tombarys/roam-depot-nautilus) ⭐ 52 | 🐛 3 | 🌐 Clojure | 📅 2026-05-20 - Roam Research extension for stress-free task planning and time tracking that visually represents tasks and calendar events in daily pages, recognizes task duration variabilities, and provides time-blocking capabilities within the Roam ecosystem. ([Read more](/details/nautilus-roam-research-extension.md)) `Roam Research` `Browser Extension` `Task Management`
 * [timetrackcli - Privacy-Focused Time Tracker](https://github.com/rezmoss/timetrackcli) ⭐ 12 | 🐛 7 | 🌐 Go | 📅 2025-09-19 - Lightweight, privacy-focused command-line time tracking tool built in Go. Features automatic productivity monitoring with beautiful terminal dashboard, smart reports, and configurable goals. All data stays local with no cloud synchronization, ensuring complete privacy and data ownership. ([Read more](/details/timetrackcli-privacy-focused-time-tracker.md)) `Cli` `Privacy` `Golang` `Open Source` `Terminal`
@@ -2450,7 +2450,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Countdown & Interval Timers
 
-* [Pomotroid](https://github.com/Splode/pomotroid) ⭐ 5,548 | 🐛 133 | 🌐 Rust | 📅 2026-10-09 - Simple and visually-pleasing Pomodoro timer desktop application built with Electron. Features customizable themes, timer controls, and desktop notifications to help users track productivity using the Pomodoro Technique. ([Read more](/details/pomotroid.md)) `Open Source` `Pomodoro` `Desktop`
+* [Pomotroid](https://github.com/Splode/pomotroid) ⭐ 5,552 | 🐛 133 | 🌐 Rust | 📅 2026-10-09 - Simple and visually-pleasing Pomodoro timer desktop application built with Electron. Features customizable themes, timer controls, and desktop notifications to help users track productivity using the Pomodoro Technique. ([Read more](/details/pomotroid.md)) `Open Source` `Pomodoro` `Desktop`
 * [TomatoBar](https://github.com/ivoronin/TomatoBar) ⭐ 3,565 | 🐛 48 | 🌐 Swift | 📅 2026-05-29 - World's neatest Pomodoro timer for macOS menu bar. A minimal, elegant Pomodoro timer that lives in your Mac's menu bar with configurable work and rest intervals, optional sounds, and global hotkey support. ([Read more](/details/tomatobar.md)) `macOS` `Pomodoro` `Open Source`
 * [Deep Work Timer](https://www.deepworktimer.io/) - Collaborative deep work tool combining pomodoro timers with social accountability features, heatmaps, habit tracking, and community challenges inspired by Cal Newport's deep work principles. ([Read more](/details/deep-work-timer.md)) `Deep Work` `Pomodoro` `collaborative` `Habit Tracking`
 * [Flow](https://www.flow.app/) - Pomodoro-based focus timer for Apple devices trusted by over 500,000 individuals and teams. Features app blocking, calendar sync, Apple Health integration, and widgets for all Apple platforms. ([Read more](/details/flow-app.md)) `Pomodoro` `Focus` `Apple` `Productivity`
@@ -2916,7 +2916,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Open Source
 
-* [Traggo](https://github.com/traggo/server) ⭐ 1,640 | 🐛 64 | 🌐 Go | 📅 2026-09-27 - Minimalist, tag-based time tracking server that revolutionizes time tracking by organizing everything around flexible tags instead of rigid project structures. Self-hosted and privacy-focused. ([Read more](/details/traggo.md)) `Open Source` `Self Hosted` `Tag Based`
+* [Traggo](https://github.com/traggo/server) ⭐ 1,639 | 🐛 64 | 🌐 Go | 📅 2026-09-27 - Minimalist, tag-based time tracking server that revolutionizes time tracking by organizing everything around flexible tags instead of rigid project structures. Self-hosted and privacy-focused. ([Read more](/details/traggo.md)) `Open Source` `Self Hosted` `Tag Based`
 * [Hakatime](https://github.com/mujx/hakatime) ⭐ 688 | 🐛 25 | 🌐 Haskell | 📅 2024-11-18 - Self-hosted WakaTime server implementation written in Haskell, offering developers a privacy-first alternative for tracking coding time with beautiful visualizations and data control. ([Read more](/details/hakatime.md)) `Self Hosted` `Open Source` `Developers`
 * [TimeTracker by DRYTRIX](https://github.com/DRYTRIX/TimeTracker) ⭐ 633 | 🐛 2 | 🌐 Python | 📅 2026-10-16 - Open-source, self-hosted time tracking software designed for individuals and teams who want complete control over their data. Features include project management, invoicing, and detailed reporting without subscription fees. ([Read more](/details/timetracker-by-drytrix.md)) `Open Source` `Self Hosted` `Free`
 * [TimeCase](https://github.com/interactive32/TimeCase) ⭐ 21 | 🐛 4 | 🌐 PHP | 📅 2023-02-03 - Free, open-source, self-hosted time tracking web application built for privacy-conscious individuals and teams. Offers complete control over data with no third-party dependencies or subscription costs. ([Read more](/details/timecase.md)) `Open Source` `Self Hosted` `Privacy Focused`
@@ -3026,7 +3026,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## personal-time-tracking
 
-* [minute](https://github.com/ktmouk/minute) ⭐ 261 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-17 - minute is an open-source time tracking app designed for individuals to monitor and track their time efficiently. ([Read more](/details/minute.md)) `Open Source` `personal-use` `Productivity` `Lightweight`
+* [minute](https://github.com/ktmouk/minute) ⭐ 261 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-18 - minute is an open-source time tracking app designed for individuals to monitor and track their time efficiently. ([Read more](/details/minute.md)) `Open Source` `personal-use` `Productivity` `Lightweight`
 * [takt](https://github.com/siimonevans/takt) ⭐ 159 | 🐛 3 | 🌐 JavaScript | 📅 2017-11-15 - takt is a simple application for tracking tasks and the time spent on them, aiding in personal productivity and time management. ([Read more](/details/takt.md)) `Open Source` `personal-use` `Productivity` `Task Management`
 * [timer-5](https://github.com/Klaster1/timer-5) ⭐ 59 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-12 - timer-5 is a simple time-tracking tool for users who need to log their hours or track time spent on tasks or projects. ([Read more](/details/timer-5.md)) `Open Source` `Simple` `personal-use` `logging`
 * [aitrack.work](https://github.com/ttntm/itrack) ⭐ 38 | 🐛 7 | 🌐 JavaScript | 📅 2025-04-03 - aitrack.work is a minimal, open-source self-hosted task-based time tracker for everyday use, enabling users to organize and monitor time spent on tasks. ([Read more](/details/aitrackwork.md)) `Open Source` `Self Hosted` `Task Management` `Minimalist`
@@ -3810,9 +3810,9 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Timetrap](https://github.com/samg/timetrap) ⭐ 1,513 | 🐛 33 | 🌐 Ruby | 📅 2025-03-12 - Timetrap is a Ruby-based command-line time tracker that offers a simple interface for tracking how time is spent on various activities. It is open-source and optimized for quick, terminal-based usage. ([Read more](/details/timetrap.md)) `Open Source` `Command Line` `ruby` `personal-use`
 * [Bartib](https://github.com/nikolassv/bartib) ⭐ 855 | 🐛 19 | 🌐 Rust | 📅 2026-03-25 - Bartib is a command-line time tracking tool that logs activities in plaintext files and provides flexible reporting options, making it suitable for straightforward personal time tracking. ([Read more](/details/bartib.md)) `Command Line` `logging` `Reporting` `Open Source`
 * [timetrace](https://github.com/dominikbraun/timetrace) ⭐ 794 | 🐛 56 | 🌐 Go | 📅 2024-06-28 - timetrace is a free and open-source CLI tool for tracking working time, offering simple and efficient time logging directly from the command line. ([Read more](/details/timetrace.md)) `Open Source` `Command Line` `personal-use` `Simple`
-* [klog](https://github.com/jotaen/klog) ⭐ 687 | 🐛 1 | 🌐 Go | 📅 2026-10-14 - klog is a simple, open-source time-tracking tool that uses plain-text files for logging hours. It’s lightweight, privacy-respecting, and integrates smoothly with command-line tools, making it ideal for users who want a customizable time tracking experience. ([Read more](/details/klog.md)) `Open Source` `Command Line` `Lightweight` `Privacy`
+* [klog](https://github.com/jotaen/klog) ⭐ 687 | 🐛 2 | 🌐 Go | 📅 2026-10-14 - klog is a simple, open-source time-tracking tool that uses plain-text files for logging hours. It’s lightweight, privacy-respecting, and integrates smoothly with command-line tools, making it ideal for users who want a customizable time tracking experience. ([Read more](/details/klog.md)) `Open Source` `Command Line` `Lightweight` `Privacy`
 * [Zeit](https://github.com/mrusme/zeit) ⭐ 593 | 🐛 0 | 🌐 Go | 📅 2026-09-09 - Zeit is a command-line tool for tracking time spent on tasks and projects. It is open-source and provides a straightforward interface for managing and recording time usage. ([Read more](/details/zeit.md)) `Open Source` `Command Line` `Simple` `programmers`
-* [toggl-cli](https://github.com/AuHau/toggl-cli) ⭐ 403 | 🐛 26 | 🌐 Python | 📅 2025-11-02 - A simple command-line interface for toggl.com, enabling users to track time via the Toggl service from the terminal. ([Read more](/details/toggl-cli.md)) `Command Line` `Integration` `Open Source` `Productivity`
+* [toggl-cli](https://github.com/AuHau/toggl-cli) ⭐ 405 | 🐛 26 | 🌐 Python | 📅 2025-11-02 - A simple command-line interface for toggl.com, enabling users to track time via the Toggl service from the terminal. ([Read more](/details/toggl-cli.md)) `Command Line` `Integration` `Open Source` `Productivity`
 * [Ultimate Time Tracker](https://github.com/larose/utt) ⭐ 351 | 🐛 1 | 🌐 Python | 📅 2026-01-08 - Ultimate Time Tracker (utt) is a simple Python-based command-line application for tracking time, designed for users seeking straightforward time logging. ([Read more](/details/ultimate-time-tracker.md)) `Open Source` `Command Line` `python` `logging`
 * [gtm](https://github.com/laughedelic/gtm) ⭐ 90 | 🐛 9 | 🌐 Shell | 📅 2015-04-04 - gtm (Git Task Manager) is a tool for tracking tasks and time directly through git, suitable for developers seeking integrated time management. ([Read more](/details/gtm.md)) `Open Source` `Command Line` `Developers` `Task Management`
 * [RTW](https://github.com/PicoJr/rtw) ⭐ 45 | 🐛 2 | 🌐 Rust | 📅 2022-06-06 - RTW (Rust Time Watcher) is a free and open-source command-line time tracker written in Rust. It provides simple time-tracking capabilities directly from the terminal. ([Read more](/details/rtw.md)) `Open Source` `Command Line` `rust` `personal-use`
@@ -3986,4 +3986,4 @@ This work is licensed under a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
