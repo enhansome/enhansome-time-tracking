@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "WINBIGFOX",
             "repo": "TimeScribe",
-            "stars": 924,
+            "stars": 925,
             "topics": [
               "billing",
               "desktop-app",
@@ -152,8 +152,8 @@
             "id": 433874407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T07:16:07Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-25T12:31:31Z",
+            "open_issues": 10,
             "owner": "saeloun",
             "repo": "miru-web",
             "stars": 267,
@@ -318,6 +318,35 @@
         },
         {
           "node_type": "item",
+          "title": "ever-gauzy-desktop-timer",
+          "description": "Ever® Gauzy™ Desktop Timer App is a desktop application for time tracking, offering download options and integrations with the Gauzy time management platform. (Read more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ever® Gauzy™ Desktop Timer App - https://gauzy.co/downloads",
+            "homepage": "https://gauzy.co/downloads",
+            "id": 416925444,
+            "language": null,
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-25T10:06:52Z",
+            "open_issues": 25,
+            "owner": "ever-co",
+            "repo": "ever-gauzy-desktop-timer",
+            "stars": 26,
+            "topics": [
+              "clock",
+              "employee-tracker",
+              "time-tracker",
+              "time-tracking",
+              "time-tracking-app",
+              "timer",
+              "timers"
+            ]
+          },
+          "first_seen": "2026-10-06T10:48:40.902Z"
+        },
+        {
+          "node_type": "item",
           "title": "time-tracker (Gnome Linux)",
           "description": "time-tracker is a GNOME Shell extension for Linux, providing native time tracking functionality directly within the desktop environment. (Read more)",
           "children": [],
@@ -340,35 +369,6 @@
               "time-tracker",
               "timer-clock",
               "tracker"
-            ]
-          },
-          "first_seen": "2026-10-06T10:48:40.902Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ever-gauzy-desktop-timer",
-          "description": "Ever® Gauzy™ Desktop Timer App is a desktop application for time tracking, offering download options and integrations with the Gauzy time management platform. (Read more)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ever® Gauzy™ Desktop Timer App - https://gauzy.co/downloads",
-            "homepage": "https://gauzy.co/downloads",
-            "id": 416925444,
-            "language": null,
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T12:33:33Z",
-            "open_issues": 25,
-            "owner": "ever-co",
-            "repo": "ever-gauzy-desktop-timer",
-            "stars": 24,
-            "topics": [
-              "clock",
-              "employee-tracker",
-              "time-tracker",
-              "time-tracking",
-              "time-tracking-app",
-              "timer",
-              "timers"
             ]
           },
           "first_seen": "2026-10-06T10:48:40.902Z"
@@ -804,7 +804,7 @@
             "open_issues": 134,
             "owner": "Splode",
             "repo": "pomotroid",
-            "stars": 5564,
+            "stars": 5570,
             "topics": [
               "pomodoro",
               "pomodoro-technique",
@@ -834,7 +834,7 @@
             "open_issues": 48,
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3572,
+            "stars": 3571,
             "topics": [
               "macos",
               "menubar",
@@ -988,7 +988,7 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-09-27T18:57:49Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "traggo",
             "repo": "server",
             "stars": 1638,
@@ -1045,8 +1045,8 @@
             "id": 1038672519,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T11:55:01Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-25T07:55:34Z",
+            "open_issues": 2,
             "owner": "DRYTRIX",
             "repo": "TimeTracker",
             "stars": 634,
@@ -1467,7 +1467,7 @@
             "id": 816791495,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T01:12:20Z",
+            "last_commit": "2026-10-25T08:58:41Z",
             "open_issues": 15,
             "owner": "ktmouk",
             "repo": "minute",
@@ -1779,7 +1779,7 @@
             "id": 1205537709,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T03:20:17Z",
+            "last_commit": "2026-10-25T04:36:33Z",
             "open_issues": 0,
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
@@ -1886,7 +1886,7 @@
             "open_issues": 143,
             "owner": "jazzband",
             "repo": "Watson",
-            "stars": 2543,
+            "stars": 2544,
             "topics": [
               "cli",
               "project-management",
@@ -2029,7 +2029,7 @@
             "open_issues": 0,
             "owner": "mrusme",
             "repo": "zeit",
-            "stars": 593,
+            "stars": 594,
             "topics": [
               "activity-tracker",
               "activity-tracking",
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:46:53.330Z",
+    "last_updated": "2026-10-25T15:01:13.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
@@ -2733,7 +2733,7 @@
       "open_issues": 16,
       "owner": "ever-works",
       "repo": "awesome-time-tracking",
-      "stars": 237,
+      "stars": 238,
       "topics": [
         "awesome",
         "awesome-list",
