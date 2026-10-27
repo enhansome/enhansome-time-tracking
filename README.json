@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "WINBIGFOX",
             "repo": "TimeScribe",
-            "stars": 926,
+            "stars": 927,
             "topics": [
               "billing",
               "desktop-app",
@@ -60,7 +60,7 @@
             "open_issues": 1,
             "owner": "larose",
             "repo": "utt",
-            "stars": 351,
+            "stars": 350,
             "topics": [
               "command-line-app",
               "python",
@@ -329,7 +329,7 @@
             "language": null,
             "license": "AGPL-3.0",
             "last_commit": "2026-10-26T17:21:25Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "ever-co",
             "repo": "ever-gauzy-desktop-timer",
             "stars": 26,
@@ -804,7 +804,7 @@
             "open_issues": 134,
             "owner": "Splode",
             "repo": "pomotroid",
-            "stars": 5573,
+            "stars": 5576,
             "topics": [
               "pomodoro",
               "pomodoro-technique",
@@ -834,7 +834,7 @@
             "open_issues": 48,
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3572,
+            "stars": 3573,
             "topics": [
               "macos",
               "menubar",
@@ -961,7 +961,7 @@
             "open_issues": 106,
             "owner": "almarklein",
             "repo": "timetagger",
-            "stars": 1808,
+            "stars": 1809,
             "topics": [
               "python",
               "timetracker"
@@ -1046,7 +1046,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-25T07:55:34Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "DRYTRIX",
             "repo": "TimeTracker",
             "stars": 634,
@@ -1467,7 +1467,7 @@
             "id": 816791495,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T15:02:46Z",
+            "last_commit": "2026-10-26T23:17:28Z",
             "open_issues": 17,
             "owner": "ktmouk",
             "repo": "minute",
@@ -1581,8 +1581,8 @@
             "id": 799833160,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T07:18:11Z",
-            "open_issues": 268,
+            "last_commit": "2026-10-27T16:28:32Z",
+            "open_issues": 270,
             "owner": "adfinis",
             "repo": "timed",
             "stars": 20,
@@ -1779,8 +1779,8 @@
             "id": 1205537709,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T04:36:33Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-27T04:16:42Z",
+            "open_issues": 2,
             "owner": "lifeos-plus",
             "repo": "lifeos-cli",
             "stars": 15,
@@ -2097,7 +2097,7 @@
             "open_issues": 1,
             "owner": "larose",
             "repo": "utt",
-            "stars": 351,
+            "stars": 350,
             "topics": [
               "command-line-app",
               "python",
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T17:34:39.492Z",
+    "last_updated": "2026-10-27T16:49:16.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
