@@ -4,7 +4,7 @@ A curated list of time tracking applications, libraries, and tools.
 
 ## 🔥 Acknowledgements
 
-This directory was built and is maintained using the [Ever Works](https://ever.works) platform with source code available with AGPLv3 license: <https://github.com/ever-works/ever-works> ⭐ 182 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-28.
+This directory was built and is maintained using the [Ever Works](https://ever.works) platform with source code available with AGPLv3 license: <https://github.com/ever-works/ever-works> ⭐ 183 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-29.
 
 The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/directory-web-template) ⭐ 20 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-27.
 
@@ -1710,7 +1710,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## team-project-time-tracking
 
-* [Miru](https://github.com/saeloun/miru-web) ⭐ 267 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-28 - Miru is an open-source time tracking and invoicing web application built with Ruby on Rails and ReactJS, supporting employee benefit management as well. ([Read more](/details/miru.md)) `Open Source` `Invoicing` `Web Based` `ruby`
+* [Miru](https://github.com/saeloun/miru-web) ⭐ 268 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-29 - Miru is an open-source time tracking and invoicing web application built with Ruby on Rails and ReactJS, supporting employee benefit management as well. ([Read more](/details/miru.md)) `Open Source` `Invoicing` `Web Based` `ruby`
 * [trax](https://github.com/agateblue/trax) ⚠️ Archived - trax is a simple time tracking server built for integration with Mattermost and Slack, supporting ChatOps workflows for team-based time tracking. ([Read more](/details/trax.md)) `Open Source` `Integration` `Teams` `chatops`
 * [PhpReport](https://github.com/Igalia/phpreport) ⚠️ Archived - PhpReport is a web-based time tracking application tailored for teams and companies, offering statistics on users and projects, and integration with external applications. ([Read more](/details/phpreport.md)) `Web Based` `Teams` `Reporting` `Integration`
 * [Lasius](https://github.com/tegonal/lasius) ⭐ 26 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-23 - An advanced open-source time tracking solution with features for team collaboration, real-time tracking, reporting, organization and project management, and export capabilities. ([Read more](/details/lasius.md)) `Open Source` `Real Time` `collaborative` `Reporting`
@@ -2450,8 +2450,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Countdown & Interval Timers
 
-* [Pomotroid](https://github.com/Splode/pomotroid) ⭐ 5,578 | 🐛 134 | 🌐 Rust | 📅 2026-10-09 - Simple and visually-pleasing Pomodoro timer desktop application built with Electron. Features customizable themes, timer controls, and desktop notifications to help users track productivity using the Pomodoro Technique. ([Read more](/details/pomotroid.md)) `Open Source` `Pomodoro` `Desktop`
-* [TomatoBar](https://github.com/ivoronin/TomatoBar) ⭐ 3,573 | 🐛 48 | 🌐 Swift | 📅 2026-05-29 - World's neatest Pomodoro timer for macOS menu bar. A minimal, elegant Pomodoro timer that lives in your Mac's menu bar with configurable work and rest intervals, optional sounds, and global hotkey support. ([Read more](/details/tomatobar.md)) `macOS` `Pomodoro` `Open Source`
+* [Pomotroid](https://github.com/Splode/pomotroid) ⭐ 5,580 | 🐛 135 | 🌐 Rust | 📅 2026-10-09 - Simple and visually-pleasing Pomodoro timer desktop application built with Electron. Features customizable themes, timer controls, and desktop notifications to help users track productivity using the Pomodoro Technique. ([Read more](/details/pomotroid.md)) `Open Source` `Pomodoro` `Desktop`
+* [TomatoBar](https://github.com/ivoronin/TomatoBar) ⭐ 3,576 | 🐛 48 | 🌐 Swift | 📅 2026-05-29 - World's neatest Pomodoro timer for macOS menu bar. A minimal, elegant Pomodoro timer that lives in your Mac's menu bar with configurable work and rest intervals, optional sounds, and global hotkey support. ([Read more](/details/tomatobar.md)) `macOS` `Pomodoro` `Open Source`
 * [Deep Work Timer](https://www.deepworktimer.io/) - Collaborative deep work tool combining pomodoro timers with social accountability features, heatmaps, habit tracking, and community challenges inspired by Cal Newport's deep work principles. ([Read more](/details/deep-work-timer.md)) `Deep Work` `Pomodoro` `collaborative` `Habit Tracking`
 * [Flow](https://www.flow.app/) - Pomodoro-based focus timer for Apple devices trusted by over 500,000 individuals and teams. Features app blocking, calendar sync, Apple Health integration, and widgets for all Apple platforms. ([Read more](/details/flow-app.md)) `Pomodoro` `Focus` `Apple` `Productivity`
 * [Flow - Focus & Pomodoro Timer](https://www.flow.app/) - Simple, beautiful Pomodoro timer app with to-do list integration, app blocking, and Apple ecosystem sync. Free with no ads, no sign-up required. ([Read more](/details/flow-focus-pomodoro-timer.md)) `Pomodoro` `Focus` `Free` `iOS`
@@ -2496,7 +2496,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Cross Platform Time Tracking
 
 * [Charm](https://github.com/charmbracelet/charm) ⚠️ Archived - Charm is a cross-platform time tracking software tailored for professionals, offering tools to log and manage billable work hours. ([Read more](/details/charm.md)) `Cross Platform` `Billable Hours` `Professionals` `Open Source`
-* [Timetagger](https://github.com/almarklein/timetagger) ⭐ 1,810 | 🐛 107 | 🌐 Python | 📅 2026-09-28 - Timetagger is a free open-source time-tracker app with an intuitive user interface, built-in Pomodoro tool, PDF/CSV reporting, a CLI tool, and a developer-friendly web API. It is designed for tracking time across devices and platforms, making it highly relevant for time tracking needs. ([Read more](/details/timetagger.md)) `Open Source` `Pomodoro` `Api` `Reporting`
+* [Timetagger](https://github.com/almarklein/timetagger) ⭐ 1,811 | 🐛 107 | 🌐 Python | 📅 2026-09-28 - Timetagger is a free open-source time-tracker app with an intuitive user interface, built-in Pomodoro tool, PDF/CSV reporting, a CLI tool, and a developer-friendly web API. It is designed for tracking time across devices and platforms, making it highly relevant for time tracking needs. ([Read more](/details/timetagger.md)) `Open Source` `Pomodoro` `Api` `Reporting`
 * [Pendulums](https://pendulums.io/) - Pendulums is a free and open source time tracking tool supporting real-time and offline tracking, project assignment, and productivity charting, suitable for teams and individuals. ([Read more](/details/pendulums.md)) `Open Source` `Real Time` `Productivity` `Teams`
 * [Task Coach](https://www.taskcoach.org/) - Task Coach is a free, open source todo manager with built-in effort tracking, allowing users to monitor time spent on tasks. Its hierarchical task management, effort tracking, and cross-platform availability make it directly relevant for time tracking needs. ([Read more](/details/task-coach.md)) `Open Source` `Task Management` `Cross Platform` `effort-tracking`
 * [Toggl](https://toggl.com/track/) - Toggl Track is a simple time tracking tool used by millions for tracking work hours, projects, and teams. Key features include one-click timer, detailed reporting, billable rates, integrations with tools like Asana and Jira, and Pomodoro timer. Ideal for freelancers, agencies, and remote teams; compares to Clockify as more visual and user-friendly but with paid advanced features. ([Read more](/details/toggl.md)) `Cross Platform` `Productivity` `Reporting` `Integration`
@@ -2918,7 +2918,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 * [Traggo](https://github.com/traggo/server) ⭐ 1,638 | 🐛 65 | 🌐 Go | 📅 2026-09-27 - Minimalist, tag-based time tracking server that revolutionizes time tracking by organizing everything around flexible tags instead of rigid project structures. Self-hosted and privacy-focused. ([Read more](/details/traggo.md)) `Open Source` `Self Hosted` `Tag Based`
 * [Hakatime](https://github.com/mujx/hakatime) ⭐ 688 | 🐛 25 | 🌐 Haskell | 📅 2024-11-18 - Self-hosted WakaTime server implementation written in Haskell, offering developers a privacy-first alternative for tracking coding time with beautiful visualizations and data control. ([Read more](/details/hakatime.md)) `Self Hosted` `Open Source` `Developers`
-* [TimeTracker by DRYTRIX](https://github.com/DRYTRIX/TimeTracker) ⭐ 634 | 🐛 2 | 🌐 Python | 📅 2026-10-28 - Open-source, self-hosted time tracking software designed for individuals and teams who want complete control over their data. Features include project management, invoicing, and detailed reporting without subscription fees. ([Read more](/details/timetracker-by-drytrix.md)) `Open Source` `Self Hosted` `Free`
+* [TimeTracker by DRYTRIX](https://github.com/DRYTRIX/TimeTracker) ⭐ 634 | 🐛 3 | 🌐 Python | 📅 2026-10-28 - Open-source, self-hosted time tracking software designed for individuals and teams who want complete control over their data. Features include project management, invoicing, and detailed reporting without subscription fees. ([Read more](/details/timetracker-by-drytrix.md)) `Open Source` `Self Hosted` `Free`
 * [TimeCase](https://github.com/interactive32/TimeCase) ⭐ 21 | 🐛 4 | 🌐 PHP | 📅 2023-02-03 - Free, open-source, self-hosted time tracking web application built for privacy-conscious individuals and teams. Offers complete control over data with no third-party dependencies or subscription costs. ([Read more](/details/timecase.md)) `Open Source` `Self Hosted` `Privacy Focused`
 * [Cloudron](https://www.cloudron.io) - Self-hosted app platform that simplifies deploying and managing open-source web applications on your own infrastructure. Provides automatic updates, backups, and a resilient multi-app server setup, making FOSS adoption accessible without deep sysadmin expertise. ([Read more](/details/cloudron.md)) `Self Hosted` `App Platform` `Open Source`
 * [Kimai](https://www.kimai.org/) - Completely free, open-source, and self-hostable time tracking solution designed for developers, agencies, and privacy-conscious organizations who want full control over their time tracking data without vendor lock-in or subscription fees. ([Read more](/details/kimai.md)) `Open Source` `Self Hosted` `Privacy` `Free`
@@ -3026,11 +3026,11 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## personal-time-tracking
 
-* [minute](https://github.com/ktmouk/minute) ⭐ 261 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-28 - minute is an open-source time tracking app designed for individuals to monitor and track their time efficiently. ([Read more](/details/minute.md)) `Open Source` `personal-use` `Productivity` `Lightweight`
+* [minute](https://github.com/ktmouk/minute) ⭐ 261 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-29 - minute is an open-source time tracking app designed for individuals to monitor and track their time efficiently. ([Read more](/details/minute.md)) `Open Source` `personal-use` `Productivity` `Lightweight`
 * [takt](https://github.com/siimonevans/takt) ⭐ 159 | 🐛 3 | 🌐 JavaScript | 📅 2017-11-15 - takt is a simple application for tracking tasks and the time spent on them, aiding in personal productivity and time management. ([Read more](/details/takt.md)) `Open Source` `personal-use` `Productivity` `Task Management`
 * [timer-5](https://github.com/Klaster1/timer-5) ⭐ 59 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-12 - timer-5 is a simple time-tracking tool for users who need to log their hours or track time spent on tasks or projects. ([Read more](/details/timer-5.md)) `Open Source` `Simple` `personal-use` `logging`
 * [aitrack.work](https://github.com/ttntm/itrack) ⭐ 38 | 🐛 7 | 🌐 JavaScript | 📅 2025-04-03 - aitrack.work is a minimal, open-source self-hosted task-based time tracker for everyday use, enabling users to organize and monitor time spent on tasks. ([Read more](/details/aitrackwork.md)) `Open Source` `Self Hosted` `Task Management` `Minimalist`
-* [timed](https://github.com/adfinis/timed) ⭐ 20 | 🐛 258 | 🌐 JavaScript | 📅 2026-10-28 - A time-tracking application monorepo for recording and managing time spent on various tasks. ([Read more](/details/timed.md)) `Open Source` `personal-use` `Task Management` `Simple`
+* [timed](https://github.com/adfinis/timed) ⭐ 20 | 🐛 258 | 🌐 JavaScript | 📅 2026-10-29 - A time-tracking application monorepo for recording and managing time spent on various tasks. ([Read more](/details/timed.md)) `Open Source` `personal-use` `Task Management` `Simple`
 * [Minder](https://github.com/Erudition/Minder) ⭐ 15 | 🐛 24 | 🌐 Elm | 📅 2026-08-09 - A free assistant and life planner app for people with ADHD, featuring time tracking and effective reminders to help users stay on task. ([Read more](/details/minder.md)) `Reminders` `Planning` `personal-use` `Productivity`
 * [Muino Time Management](https://github.com/martijnvwezel/muino-time-management) ⭐ 11 | 🐛 10 | 🌐 TypeScript | 📅 2023-07-18 - A time management and accounting tool for tracking project and task hours, designed for personal and professional use. ([Read more](/details/muino-time-management.md)) `Open Source` `Project Management` `Productivity` `personal-use`
 * [Dakik](https://github.com/codeaia/dakik) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-23 - A simple, cross-platform time and task management app focused on helping users track time and manage their schedules. ([Read more](/details/dakik.md)) `Cross Platform` `Task Management` `Simple` `personal-use`
@@ -3732,7 +3732,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Time Tracking Tool
 
-* [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 15 | 🐛 6 | 🌐 Python | 📅 2026-10-28 - Lifeos-cli is a terminal-native application that helps users manage their intentions, habits, and time logs through an agent-friendly interface. It uses a PostgreSQL backend for data storage and is designed for productivity tracking via command line. ([Read more](/details/lifeos-cli.md)) `Open Source` `Command Line` `Productivity`
+* [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 15 | 🐛 6 | 🌐 Python | 📅 2026-10-29 - Lifeos-cli is a terminal-native application that helps users manage their intentions, habits, and time logs through an agent-friendly interface. It uses a PostgreSQL backend for data storage and is designed for productivity tracking via command line. ([Read more](/details/lifeos-cli.md)) `Open Source` `Command Line` `Productivity`
 
 ## Time Tracking Utilities & Calculators
 
@@ -3986,4 +3986,4 @@ This work is licensed under a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
