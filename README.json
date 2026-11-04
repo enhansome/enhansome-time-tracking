@@ -16,10 +16,10 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2026-11-03T16:55:02Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "WINBIGFOX",
             "repo": "TimeScribe",
-            "stars": 931,
+            "stars": 932,
             "topics": [
               "billing",
               "desktop-app",
@@ -60,7 +60,7 @@
             "open_issues": 1,
             "owner": "larose",
             "repo": "utt",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "command-line-app",
               "python",
@@ -834,7 +834,7 @@
             "open_issues": 48,
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3579,
+            "stars": 3583,
             "topics": [
               "macos",
               "menubar",
@@ -991,7 +991,7 @@
             "open_issues": 65,
             "owner": "traggo",
             "repo": "server",
-            "stars": 1640,
+            "stars": 1641,
             "topics": [
               "freesoftware",
               "golang",
@@ -1045,11 +1045,11 @@
             "id": 1038672519,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T14:43:34Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-04T09:30:22Z",
+            "open_issues": 1,
             "owner": "DRYTRIX",
             "repo": "TimeTracker",
-            "stars": 636,
+            "stars": 638,
             "topics": [
               "clockify-alternative",
               "docker",
@@ -1581,8 +1581,8 @@
             "id": 799833160,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-03T11:04:49Z",
-            "open_issues": 217,
+            "last_commit": "2026-11-04T11:04:49Z",
+            "open_issues": 219,
             "owner": "adfinis",
             "repo": "timed",
             "stars": 20,
@@ -1886,7 +1886,7 @@
             "open_issues": 143,
             "owner": "jazzband",
             "repo": "Watson",
-            "stars": 2543,
+            "stars": 2544,
             "topics": [
               "cli",
               "project-management",
@@ -1912,7 +1912,7 @@
             "open_issues": 33,
             "owner": "samg",
             "repo": "timetrap",
-            "stars": 1513,
+            "stars": 1514,
             "topics": []
           },
           "first_seen": "2026-10-06T10:48:40.902Z"
@@ -1996,7 +1996,7 @@
             "open_issues": 0,
             "owner": "jotaen",
             "repo": "klog",
-            "stars": 689,
+            "stars": 690,
             "topics": [
               "cli",
               "command-line",
@@ -2097,7 +2097,7 @@
             "open_issues": 1,
             "owner": "larose",
             "repo": "utt",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "command-line-app",
               "python",
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T18:37:40.551Z",
+    "last_updated": "2026-11-04T18:47:56.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
