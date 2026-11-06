@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "WINBIGFOX",
             "repo": "TimeScribe",
-            "stars": 932,
+            "stars": 933,
             "topics": [
               "billing",
               "desktop-app",
@@ -804,7 +804,7 @@
             "open_issues": 136,
             "owner": "Splode",
             "repo": "pomotroid",
-            "stars": 5589,
+            "stars": 5592,
             "topics": [
               "pomodoro",
               "pomodoro-technique",
@@ -834,7 +834,7 @@
             "open_issues": 48,
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3584,
+            "stars": 3585,
             "topics": [
               "macos",
               "menubar",
@@ -1045,8 +1045,8 @@
             "id": 1038672519,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T17:33:47Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-06T12:56:22Z",
+            "open_issues": 2,
             "owner": "DRYTRIX",
             "repo": "TimeTracker",
             "stars": 638,
@@ -1155,7 +1155,7 @@
             "open_issues": 41,
             "owner": "Baralga",
             "repo": "baralga",
-            "stars": 120,
+            "stars": 119,
             "topics": [
               "java",
               "opensource",
@@ -1467,7 +1467,7 @@
             "id": 816791495,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-05T16:20:15Z",
+            "last_commit": "2026-11-06T18:07:30Z",
             "open_issues": 17,
             "owner": "ktmouk",
             "repo": "minute",
@@ -1831,7 +1831,7 @@
             "open_issues": 374,
             "owner": "toggl",
             "repo": "track-extension",
-            "stars": 1150,
+            "stars": 1149,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T18:55:16.138Z",
+    "last_updated": "2026-11-06T18:19:46.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
