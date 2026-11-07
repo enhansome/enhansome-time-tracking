@@ -156,7 +156,7 @@
             "open_issues": 10,
             "owner": "saeloun",
             "repo": "miru-web",
-            "stars": 268,
+            "stars": 267,
             "topics": [
               "client-invoiving",
               "hacktoberbest2023",
@@ -242,8 +242,8 @@
             "id": 508700551,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T08:10:06Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-07T09:19:03Z",
+            "open_issues": 28,
             "owner": "tegonal",
             "repo": "Lasius",
             "stars": 26,
@@ -958,10 +958,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-28T07:50:32Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "almarklein",
             "repo": "timetagger",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "python",
               "timetracker"
@@ -1045,11 +1045,11 @@
             "id": 1038672519,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T12:56:22Z",
+            "last_commit": "2026-11-07T11:43:09Z",
             "open_issues": 2,
             "owner": "DRYTRIX",
             "repo": "TimeTracker",
-            "stars": 638,
+            "stars": 640,
             "topics": [
               "clockify-alternative",
               "docker",
@@ -1467,7 +1467,7 @@
             "id": 816791495,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T18:07:30Z",
+            "last_commit": "2026-11-07T02:39:32Z",
             "open_issues": 17,
             "owner": "ktmouk",
             "repo": "minute",
@@ -1739,7 +1739,7 @@
             "open_issues": 76,
             "owner": "topydo",
             "repo": "topydo",
-            "stars": 943,
+            "stars": 944,
             "topics": [
               "bsd",
               "cli",
@@ -1886,7 +1886,7 @@
             "open_issues": 143,
             "owner": "jazzband",
             "repo": "Watson",
-            "stars": 2544,
+            "stars": 2545,
             "topics": [
               "cli",
               "project-management",
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T18:19:46.383Z",
+    "last_updated": "2026-11-07T16:58:30.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
