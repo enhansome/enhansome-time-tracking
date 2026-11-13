@@ -4,9 +4,8 @@ A curated list of time tracking applications, libraries, and tools.
 
 ## 🔥 Acknowledgements
 
-This directory was built and is maintained using the [Ever Works](https://ever.works) platform with source code available with AGPLv3 license: <https://github.com/ever-works/ever-works> ⭐ 196 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-12.
-
-The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/directory-web-template) ⭐ 20 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-12.
+This directory was built and is maintained using the [Ever Works](https://ever.works) Directory Builder platform.\
+The public-facing website is based on the open-source [Directory Website Template](https://github.com/ever-works/ever-works-website-template) ⭐ 20 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-13.
 
 ## 📑 Table of Contents
 
@@ -35,7 +34,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Attendance & Payroll Management (54)](#attendance--payroll-management)
 * [desktop-time-tracking-applications (14)](#desktop-time-tracking-applications)
 * [Developer Time Tracking (13)](#developer-time-tracking)
-* [Mobile Time Tracking (4)](#mobile-time-tracking)
+* [Mobile Time Tracking (5)](#mobile-time-tracking)
 * [Productivity Software (14)](#productivity-software)
 * [Productivity Technique (14)](#productivity-technique)
 * [Time Management Concept (27)](#time-management-concept)
@@ -73,6 +72,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Developer Tools (4)](#developer-tools)
 * [developer-time-tracking (1)](#developer-time-tracking-1)
 * [Digital Wellness (8)](#digital-wellness)
+* [Digital Wellness (2)](#digital-wellness-1)
 * [Employee Monitoring (44)](#employee-monitoring)
 * [Employee Scheduling (23)](#employee-scheduling)
 * [Equipment & Fleet Time Tracking (3)](#equipment--fleet-time-tracking)
@@ -100,6 +100,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Legal Practice (4)](#legal-practice)
 * [Legal Practice Management (2)](#legal-practice-management)
 * [Legal Time Tracking (15)](#legal-time-tracking)
+* [Legal Time Tracking (1)](#legal-time-tracking-1)
 * [Meeting & Team Time Tracking (26)](#meeting--team-time-tracking)
 * [Mental Health & Productivity (1)](#mental-health--productivity)
 * [Mobile Time Tracking (30)](#mobile-time-tracking-1)
@@ -163,6 +164,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Time Tracking Practice (121)](#time-tracking-practice)
 * [Time Tracking Principle (3)](#time-tracking-principle)
 * [Time Tracking Process (3)](#time-tracking-process)
+* [Time Tracking Software (1)](#time-tracking-software-1)
 * [Time Tracking Tool (1)](#time-tracking-tool)
 * [Time Tracking Utilities & Calculators (52)](#time-tracking-utilities--calculators)
 * [time-tracking-apis-integrations (12)](#time-tracking-apis-integrations)
@@ -175,6 +177,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Work OS (1)](#work-os)
 * [Work-Life Balance (1)](#work-life-balance)
 * [Workforce Analytics (3)](#workforce-analytics)
+* [Workforce Management (4)](#workforce-management-1)
 * [Workplace Research (15)](#workplace-research)
 * [Workplace Trend (4)](#workplace-trend)
 
@@ -275,7 +278,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Mike Flint - Warren Buffett's Pilot and the 5/25 Rule](https://friday.app/p/5-25-rule) - The story of Warren Buffett advising his longtime personal pilot Mike Flint to list 25 career goals, circle 5 most important, then treat the remaining 20 as an 'avoid-at-all-cost list' to maintain laser focus on priorities. ([Read more](/details/mike-flint-warren-buffetts-pilot-and-the-525-rule.md)) `Story` `Focus` `Prioritization` `Strategy`
 * [Mindful Planning Sessions (Sunsama)](https://www.sunsama.com/daily-planning) - Sunsama's guided daily planning ritual that encourages users to consciously choose what to work on, time-block tasks onto their calendar, and set realistic expectations, promoting intentional work habits and preventing burnout through mindful task selection. ([Read more](/details/mindful-planning-sessions-sunsama.md)) `Mindfulness` `Planning` `Burnout Prevention`
 * [MIT Method - Most Important Tasks](https://zenhabits.net/purpose-your-day-most-important-task/) - Productivity technique where you identify 3 Most Important Tasks (MITs) each day and complete them first, ensuring high-impact work gets priority attention before less critical activities. ([Read more](/details/mit-method-most-important-tasks.md)) `Prioritization` `Task Management` `Simplicity`
-* [Monday Work Rhythm](https://medium.com/@monkeybridge/discover-your-natural-work-rhythm-the-key-to-peak-productivity-ca1fd5a21ace) - Weekly scheduling methodology that recognizes Monday as a strategic planning and catch-up day rather than a productive execution day. Aligns task scheduling with natural weekly energy patterns, reserving intensive work for Tuesday-Thursday peak productivity periods. ([Read more](/details/monday-work-rhythm.md)) `Methodology` `Weekly Planning` `Scheduling` `Energy Management`
+* \[Monday Work Rhythm]\(<https://medium.com/@monkeybridge/discover-your-natural-work-rhythm-the-[redacted> secret]) - Weekly scheduling methodology that recognizes Monday as a strategic planning and catch-up day rather than a productive execution day. Aligns task scheduling with natural weekly energy patterns, reserving intensive work for Tuesday-Thursday peak productivity periods. ([Read more](/details/monday-work-rhythm.md)) `Methodology` `Weekly Planning` `Scheduling` `Energy Management`
 * [Monotasking (Cave Principle)](https://christophermjennings.medium.com/what-is-caveday-beae0b6a1075) - Caveday's core methodology principle requiring participants to work on only one task during each sprint session, eliminating multitasking and context switching to maximize focus, productivity, and work quality. ([Read more](/details/monotasking-cave-principle.md)) `Focus` `Single Tasking` `Productivity Principle`
 * [Monotasking Method](https://www.indeed.com/career-advice/career-development/monotasking-vs-multitasking) - Productivity approach focusing on completing one task at a time with minimal distractions. Research shows monotasking can improve productivity by up to 40% compared to multitasking, while reducing errors and stress. ([Read more](/details/monotasking-method.md)) `Focus` `Productivity` `Task Management`
 * [MoSCoW Method (Time Management)](https://blog.workflowy.com/productivity-and-time-management-systems/) - A prioritization framework for organizing projects and tasks where items are categorized as Must have, Should have, Could have, or Won't have, helping teams and individuals make clear decisions about what to work on based on relative importance and urgency. ([Read more](/details/moscow-method-time-management.md)) `Prioritization` `Project Management` `Decision Making`
@@ -543,7 +546,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Attention Management vs Time Management](https://maurathomas.com/attention-management/) - Paradigm shift from managing time to managing attention, recognizing attention as the more scarce and valuable resource. Maura Thomas's framework emphasizes controlling where attention goes rather than what fills hours, as productivity depends on attention quality not time quantity. ([Read more](/details/attention-management-vs-time-management.md)) `Attention` `Focus` `Paradigm Shift` `Productivity`
 * [Attention Management vs Time Management 2026](https://www.nextiva.com/blog/productivity-hacks.html) - A paradigm shift in productivity philosophy recognizing that in 2026, managing attention and focus is more critical than managing time, as constant digital interruptions make sustained attention the scarce resource. ([Read more](/details/attention-management-vs-time-management-2026.md)) `Attention Management` `Focus` `Paradigm Shift`
 * [Big Time: A Simple Path to Time Abundance](https://lauravanderkam.com/books/big-time/) - A 2026 book by time management expert Laura Vanderkam that argues even busy people can feel time is abundant through shifting from scarcity to abundance mindset. Drawing on original research and a decade of personal time tracking, it offers tactics for managing complex lives and maximizing leisure time. ([Read more](/details/big-time-a-simple-path-to-time-abundance.md)) `Book` `Time Management` `Productivity` `Abundance` `Mindfulness`
-* \[Brave, Not Perfect]\(<https://www.reshmasa> ujani.com/brave-not-perfect) - Personal development book by Reshma Saujani encouraging women to embrace courage over perfection, challenging the socialization that holds women back from taking risks and pursuing ambitious goals. ([Read more](/details/brave-not-perfect.md)) `Book` `Courage` `Women`
+* [Brave, Not Perfect](#) - Personal development book by Reshma Saujani encouraging women to embrace courage over perfection, challenging the socialization that holds women back from taking risks and pursuing ambitious goals. ([Read more](/details/brave-not-perfect.md)) `Book` `Courage` `Women`
 * [Busy: How to Thrive In a World of Too Much](https://tonycrabbe.com/books/busy/) - A book by Tony Crabbe that addresses the problem of chronic busyness in modern life through a unique three-step approach. Supported by an extensive list of scientific studies, it provides clear, compelling advice for getting out from underneath the burden of being too busy. ([Read more](/details/busy-how-to-thrive-in-a-world-of-too-much.md)) `Time Management` `Productivity Strategies` `Personal Development`
 * [Busyness vs Productivity Distinction](https://medium.com/@abrarasrar12/mastering-time-unveiling-abundance-boundaries-and-productivity-bea42b97c747) - Critical recognition that being busy doesn't equal being productive. Busyness involves constant activity and filled schedules, while productivity focuses on meaningful outcomes and results. Distinguishing between them is the first step toward time mastery, emphasizing intentional work over activity theater. ([Read more](/details/busyness-vs-productivity-distinction.md)) `Productivity` `Mindset` `Effectiveness` `Essentialism` `Outcomes`
 * [Chris Bailey](https://alifeofproductivity.com) - Productivity expert and author of A Year of Productivity who spent 12 months experimenting with productivity techniques and time management methods, sharing findings through books including The Productivity Project and Hyperfocus. ([Read more](/details/chris-bailey.md)) `Author` `Productivity Researcher` `Experimenter`
@@ -911,7 +914,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Yesterbox](https://yesterbox.com) - Email management technique created by Tony Hsieh where you process only yesterday's emails each day, creating a finite daily goal and preventing the endless inbox zero treadmill. ([Read more](/details/yesterbox.md)) `Email Management` `Inbox Zero` `Productivity`
 * [Zeitgebers for Productivity](https://www.risescience.com/blog/circadian-rhythm-sales-productivity) - Time management technique using external environmental cues (light, exercise, meals) to regulate the body's internal clock and optimize daily energy patterns for enhanced productivity and focus. ([Read more](/details/zeitgebers-for-productivity.md)) `Circadian Rhythm` `Energy Management` `environmental-cues`
 * [Zen to Done (ZTD)](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/) - Simplified productivity system by Leo Babauta that combines the best aspects of GTD and other methodologies, focusing on habit formation one at a time with emphasis on doing rather than planning through 10 core habits. ([Read more](/details/zen-to-done-ztd.md)) `Productivity Method` `Habits` `Minimalist` `GTD`
-* \[Zero Inbox Method]\(<https://blog.inbox> zero.com/) - Email management philosophy aiming to keep inbox empty or nearly empty by quickly processing all messages using triage decisions. Reduces stress, improves responsiveness, and prevents important items from getting lost. ([Read more](/details/zero-inbox-method.md)) `Email Management` `Organization` `Productivity`
+* [Zero Inbox Method](#) - Email management philosophy aiming to keep inbox empty or nearly empty by quickly processing all messages using triage decisions. Reduces stress, improves responsiveness, and prevents important items from getting lost. ([Read more](/details/zero-inbox-method.md)) `Email Management` `Organization` `Productivity`
 
 ## AI Powered Time Tracking
 
@@ -954,7 +957,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Time Tracking Software
 
-* [TimeScribe](https://github.com/WINBIGFOX/TimeScribe) ⭐ 933 | 🐛 25 | 🌐 PHP | 📅 2026-11-03 - A modern and private time tracking application for macOS and Windows that operates 100% offline with no cloud, no registration, and no paywall, offering simple controls, automation features, and detailed insights for managing work hours. ([Read more](/details/timescribe.md)) `Open Source` `Privacy` `Offline` `Desktop`
+* [TimeScribe](https://github.com/WINBIGFOX/TimeScribe) ⭐ 934 | 🐛 25 | 🌐 PHP | 📅 2026-11-03 - A modern and private time tracking application for macOS and Windows that operates 100% offline with no cloud, no registration, and no paywall, offering simple controls, automation features, and detailed insights for managing work hours. ([Read more](/details/timescribe.md)) `Open Source` `Privacy` `Offline` `Desktop`
 * [utt (Ultimate Time Tracker)](https://github.com/larose/utt) ⭐ 352 | 🐛 1 | 🌐 Python | 📅 2026-01-08 - A simple command-line time tracking application written in Python for freelancers and consultants who need to track time and generate reports for another system. Features activity categorization into working, break, and ignored types with customizable reporting. ([Read more](/details/utt-ultimate-time-tracker-cli.md)) `Command Line` `Open Source` `Terminal` `Linux`
 * [Nautilus Roam Research Extension](https://github.com/tombarys/roam-depot-nautilus) ⭐ 52 | 🐛 3 | 🌐 Clojure | 📅 2026-05-20 - Roam Research extension for stress-free task planning and time tracking that visually represents tasks and calendar events in daily pages, recognizes task duration variabilities, and provides time-blocking capabilities within the Roam ecosystem. ([Read more](/details/nautilus-roam-research-extension.md)) `Roam Research` `Browser Extension` `Task Management`
 * [timetrackcli - Privacy-Focused Time Tracker](https://github.com/rezmoss/timetrackcli) ⭐ 12 | 🐛 7 | 🌐 Go | 📅 2025-09-19 - Lightweight, privacy-focused command-line time tracking tool built in Go. Features automatic productivity monitoring with beautiful terminal dashboard, smart reports, and configurable goals. All data stays local with no cloud synchronization, ensuring complete privacy and data ownership. ([Read more](/details/timetrackcli-privacy-focused-time-tracker.md)) `Cli` `Privacy` `Golang` `Open Source` `Terminal`
@@ -1710,14 +1713,14 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## team-project-time-tracking
 
-* [Miru](https://github.com/saeloun/miru-web) ⭐ 267 | 🐛 9 | 🌐 Ruby | 📅 2026-11-11 - Miru is an open-source time tracking and invoicing web application built with Ruby on Rails and ReactJS, supporting employee benefit management as well. ([Read more](/details/miru.md)) `Open Source` `Invoicing` `Web Based` `ruby`
+* [Miru](https://github.com/saeloun/miru-web) ⭐ 267 | 🐛 10 | 🌐 Ruby | 📅 2026-11-13 - Miru is an open-source time tracking and invoicing web application built with Ruby on Rails and ReactJS, supporting employee benefit management as well. ([Read more](/details/miru.md)) `Open Source` `Invoicing` `Web Based` `ruby`
 * [trax](https://github.com/agateblue/trax) ⚠️ Archived - trax is a simple time tracking server built for integration with Mattermost and Slack, supporting ChatOps workflows for team-based time tracking. ([Read more](/details/trax.md)) `Open Source` `Integration` `Teams` `chatops`
 * [PhpReport](https://github.com/Igalia/phpreport) ⚠️ Archived - PhpReport is a web-based time tracking application tailored for teams and companies, offering statistics on users and projects, and integration with external applications. ([Read more](/details/phpreport.md)) `Web Based` `Teams` `Reporting` `Integration`
 * [Lasius](https://github.com/tegonal/lasius) ⭐ 26 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-12 - An advanced open-source time tracking solution with features for team collaboration, real-time tracking, reporting, organization and project management, and export capabilities. ([Read more](/details/lasius.md)) `Open Source` `Real Time` `collaborative` `Reporting`
 * [time-tracker (valb3r)](https://github.com/valb3r/time-tracker) ⭐ 15 | 🐛 27 | 🌐 Java | 📅 2026-01-11 - A time tracker and corporate authorization portal with group/user management, role inheritance, and batch reporting, powered by a graph database and reactive endpoints. ([Read more](/details/time-tracker-valb3r.md)) `Open Source` `Reporting` `Enterprise` `user-management`
 * [Bitrix24](https://www.bitrix24.com/) - Bitrix24 is a business management suite providing project and time tracking tools, including time assignment and visualization in Gantt charts and Kanban boards. It is suitable for teams that need integrated time tracking within a broader project management environment. ([Read more](/details/bitrix24.md)) `Project Management` `Kanban` `Visualization` `Teams`
 * [ProofHub](https://www.proofhub.com/) - ProofHub is a comprehensive project management tool that integrates time tracking capabilities, allowing teams to monitor time spent on tasks and projects. It supports payroll, client billing, estimations, and timesheet tracking, making it a versatile choice for both small and large teams. ([Read more](/details/proofhub.md)) `Timesheet` `Billing` `Project Management`
-* \[]project-open[](https://www.project-open.com) - ]project-open\[ is an enterprise project management application that includes modules for time sheet management and time tracking within broader resource and project management functionalities, making it suitable for organizations needing to track time across projects. ([Read more](/details/project-open.md)) `Enterprise` `Project Management` `Timesheet` `Resource Management`
+* [\]project-open\[](https://www.project-open.com) - ]project-open\[ is an enterprise project management application that includes modules for time sheet management and time tracking within broader resource and project management functionalities, making it suitable for organizations needing to track time across projects. ([Read more](/details/project-open.md)) `Enterprise` `Project Management` `Timesheet` `Resource Management`
 * [ActiveCollab](https://activecollab.com/) - ActiveCollab is a project management tool with built-in time tracking, allowing detailed monitoring of hours by project, client, and task. It supports timesheet management, reporting, budgeting, and resource tracking, aiding in comprehensive work time analysis. ([Read more](/details/activecollab.md)) `Project Management` `Reporting` `Resource Management` `Timesheet`
 * [BigTime](https://www.bigtime.net/) - BigTime is a cloud-based project management software focused on tracking billable hours, resource allocation, project planning, and billing. It is used by professional services businesses for detailed time tracking and management of project hours. ([Read more](/details/bigtime.md)) `Cloud Based` `Billable Hours` `Resource Management` `Project Management`
 * [Clockly](https://clockly.com/) - Clockly is a project time tracking software that helps teams boost productivity by monitoring employee activity, managing timesheets and payroll, and providing detailed reports on time and attendance. It offers features like activity screenshots, app and location monitoring, and engagement tracking. ([Read more](/details/clockly.md)) `Productivity` `Timesheet` `Activity Monitoring` `Reporting`
@@ -1967,6 +1970,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 * [timetracker](https://github.com/SimonIT/timetracker) ⭐ 10 | 🐛 3 | 🌐 Dart | 📅 2023-07-26 - Papierkram.de TimeTracker is a Flutter app for time tracking, providing a mobile solution for users needing to log their work hours. ([Read more](/details/timetracker.md)) `flutter` `Mobile` `Open Source` `personal-use`
 * [ATracker](https://www.wonderapps.se/ATracker/home.html) - ATracker is a time tracking app for iOS and Android that offers one-tap timers, task switching, and detailed visual reports. It is designed for freelancers, personal users, and businesses, providing customizable interfaces and multi-device synchronization. ([Read more](/details/atracker.md)) `Mobile` `Reporting` `Customization` `personal-use`
+* [Bilr- Legal Billing Software](https://www.getbilr.com/) - Bilr is legal billing software for modern law firms. Manage timekeeping, invoicing, LEDES billing, UTBMS codes, and fee arrangements from one platform
 * [busybusy Mobile Time Clock App](https://busybusy.com/mobile-time-clock-app/) - Mobile time clock software that turns smartphones into time clocks for crews, enabling employees to punch in/out, switch tasks, and submit time from anywhere in the field. ([Read more](/details/busybusy-mobile-time-clock-app.md)) `Mobile` `punch-clock` `Construction`
 * [busybusy Mobile Time Tracking App](https://busybusy.com/mobile-time-tracking-app/) - A mobile time tracking app for construction and field teams that lets employees clock in/out from their phones, track time by job and cost code, capture GPS locations, and sync hours to timesheets and payroll. ([Read more](/details/busybusy-mobile-time-tracking-app.md)) `Mobile` `Gps` `Construction`
 
@@ -2298,7 +2302,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## automated-time-tracking
 
-* [desktop-wakatime](https://github.com/wakatime/desktop-wakatime) ⭐ 174 | 🐛 34 | 🌐 TypeScript | 📅 2026-05-21 - desktop-wakatime is a system tray app for Windows & Linux that provides automatic time tracking and generates usage metrics from various tools such as Figma and Postman. ([Read more](/details/desktop-wakatime.md)) `Automatic Tracking` `usage-monitoring` `Cross Platform` `Open Source`
+* [desktop-wakatime](https://github.com/wakatime/desktop-wakatime) ⭐ 175 | 🐛 34 | 🌐 TypeScript | 📅 2026-05-21 - desktop-wakatime is a system tray app for Windows & Linux that provides automatic time tracking and generates usage metrics from various tools such as Figma and Postman. ([Read more](/details/desktop-wakatime.md)) `Automatic Tracking` `usage-monitoring` `Cross Platform` `Open Source`
 * [TrackLater](https://github.com/Eerovil/TrackLater) ⭐ 126 | 🐛 7 | 🌐 Python | 📅 2026-11-05 - TrackLater is a tool that helps users track time after-the-fact by reconstructing daily activity from clues and displaying it on a simple timeline view. ([Read more](/details/tracklater.md)) `Open Source` `Automatic Tracking` `Timeline` `personal-use`
 * [Latte](https://github.com/flakas/Latte) ⭐ 32 | 🐛 5 | 🌐 Python | 📅 2021-06-14 - Latte is an open-source, automatic time tracker for Linux desktops, designed to track and record activity without manual intervention. ([Read more](/details/latte.md)) `Open Source` `Automatic Tracking` `Linux` `Desktop`
 * [time-tracker-agent](https://github.com/Stigmatoz/time-tracker-agent) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2022-12-15 - time-tracker-agent is an application for tracking time spent on applications, useful for productivity analysis and reporting. ([Read more](/details/time-tracker-agent.md)) `Automatic Tracking` `Open Source` `Productivity` `Reporting`
@@ -2450,8 +2454,8 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Countdown & Interval Timers
 
-* [Pomotroid](https://github.com/Splode/pomotroid) ⭐ 5,609 | 🐛 137 | 🌐 Rust | 📅 2026-10-09 - Simple and visually-pleasing Pomodoro timer desktop application built with Electron. Features customizable themes, timer controls, and desktop notifications to help users track productivity using the Pomodoro Technique. ([Read more](/details/pomotroid.md)) `Open Source` `Pomodoro` `Desktop`
-* [TomatoBar](https://github.com/ivoronin/TomatoBar) ⭐ 3,592 | 🐛 48 | 🌐 Swift | 📅 2026-05-29 - World's neatest Pomodoro timer for macOS menu bar. A minimal, elegant Pomodoro timer that lives in your Mac's menu bar with configurable work and rest intervals, optional sounds, and global hotkey support. ([Read more](/details/tomatobar.md)) `macOS` `Pomodoro` `Open Source`
+* [Pomotroid](https://github.com/Splode/pomotroid) ⭐ 5,611 | 🐛 137 | 🌐 Rust | 📅 2026-10-09 - Simple and visually-pleasing Pomodoro timer desktop application built with Electron. Features customizable themes, timer controls, and desktop notifications to help users track productivity using the Pomodoro Technique. ([Read more](/details/pomotroid.md)) `Open Source` `Pomodoro` `Desktop`
+* [TomatoBar](https://github.com/ivoronin/TomatoBar) ⭐ 3,594 | 🐛 48 | 🌐 Swift | 📅 2026-05-29 - World's neatest Pomodoro timer for macOS menu bar. A minimal, elegant Pomodoro timer that lives in your Mac's menu bar with configurable work and rest intervals, optional sounds, and global hotkey support. ([Read more](/details/tomatobar.md)) `macOS` `Pomodoro` `Open Source`
 * [Deep Work Timer](https://www.deepworktimer.io/) - Collaborative deep work tool combining pomodoro timers with social accountability features, heatmaps, habit tracking, and community challenges inspired by Cal Newport's deep work principles. ([Read more](/details/deep-work-timer.md)) `Deep Work` `Pomodoro` `collaborative` `Habit Tracking`
 * [Flow](https://www.flow.app/) - Pomodoro-based focus timer for Apple devices trusted by over 500,000 individuals and teams. Features app blocking, calendar sync, Apple Health integration, and widgets for all Apple platforms. ([Read more](/details/flow-app.md)) `Pomodoro` `Focus` `Apple` `Productivity`
 * [Flow - Focus & Pomodoro Timer](https://www.flow.app/) - Simple, beautiful Pomodoro timer app with to-do list integration, app blocking, and Apple ecosystem sync. Free with no ads, no sign-up required. ([Read more](/details/flow-focus-pomodoro-timer.md)) `Pomodoro` `Focus` `Free` `iOS`
@@ -2533,6 +2537,11 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Notification Fatigue](https://www.spikenow.com/blog/inbox-management/notification-fatigue/) - The state of mental exhaustion and decreased responsiveness caused by constant notifications overwhelming attention and fragmenting focus. In 2026, this phenomenon costs U.S. businesses an estimated $588 billion annually in lost productivity, with 68% of Americans reporting that notification frequency interferes with their work. ([Read more](/details/notification-fatigue.md)) `Productivity` `Digital Wellbeing` `Attention Management` `Workplace Health`
 * [ScreenZen](https://screenzen.app) - A completely free, cross-platform digital wellbeing app that provides customizable app blocking, pause screens, and daily usage limits to help users build healthier screen habits. ([Read more](/details/screenzen.md)) `Free` `Cross Platform` `Mindful Usage`
 * [Work Life Balance App](https://worklifebalance.app/) - An all-in-one work-life balance and wellness tracker designed to help monitor mental health, productivity, habits, goals, finances, and daily routines in one simple dashboard. A smart SaaS platform that helps measure, reflect, and improve every important area of life. ([Read more](/details/work-life-balance-app.md)) `Wellness` `Work Life Balance` `Productivity`
+
+## Digital Wellness
+
+* [Cactus](https://usecactus.app) - Mac website blocker with a weekly schedule. Blocks sites in every browser, keeps blocking after quit, sleep and restart, with no off switch mid-block. `Privacy First` `Simplicity` `Focus` `Concentration` `Productivity`
+* [Cactus](https://usecactus.app) - Mac website blocker with a weekly schedule. Blocks sites in every browser, keeps blocking after quit, sleep and restart, with no off switch mid-block. `Privacy First` `Simplicity` `Focus` `Concentration` `Productivity`
 
 ## Employee Monitoring
 
@@ -2823,6 +2832,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Time59](https://www.time59.com/) - Online legal billing and time tracking software designed specifically for small law firms and solo attorneys. Simplifies time tracking, billing, and invoicing for legal professionals with practice-specific features. ([Read more](/details/time59.md)) `Legal` `Billing` `Solo Practitioners`
 * [TimeSolv](https://www.timesolv.com) - Comprehensive law firm billing and time tracking software designed specifically for legal professionals. Features trust accounting, ABA task codes, matter management, and 31 built-in reports to streamline legal billing and practice management for attorneys of all practice sizes. ([Read more](/details/timesolv.md)) `Legal` `Billing` `Trust Accounting` `Attorneys`
 
+## Legal Time Tracking
+
+* [Bilr- Legal Billing Software](https://www.getbilr.com/) - Bilr is legal billing software for modern law firms. Manage timekeeping, invoicing, LEDES billing, UTBMS codes, and fee arrangements from one platform
+
 ## Meeting & Team Time Tracking
 
 * [Avoma](https://www.avoma.com) - AI Meeting Assistant and Revenue Intelligence solution offering end-to-end meeting lifecycle support from agenda setting through automatic recording, transcription, AI note-taking, and CRM updates, saving 4+ hours weekly and featuring conversation intelligence starting at $29/month. ([Read more](/details/avoma.md)) `AI` `Revenue Intelligence` `Sales`
@@ -2916,9 +2929,9 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## Open Source
 
-* [Traggo](https://github.com/traggo/server) ⭐ 1,645 | 🐛 76 | 🌐 Go | 📅 2026-09-27 - Minimalist, tag-based time tracking server that revolutionizes time tracking by organizing everything around flexible tags instead of rigid project structures. Self-hosted and privacy-focused. ([Read more](/details/traggo.md)) `Open Source` `Self Hosted` `Tag Based`
+* [Traggo](https://github.com/traggo/server) ⭐ 1,646 | 🐛 76 | 🌐 Go | 📅 2026-09-27 - Minimalist, tag-based time tracking server that revolutionizes time tracking by organizing everything around flexible tags instead of rigid project structures. Self-hosted and privacy-focused. ([Read more](/details/traggo.md)) `Open Source` `Self Hosted` `Tag Based`
 * [Hakatime](https://github.com/mujx/hakatime) ⭐ 688 | 🐛 25 | 🌐 Haskell | 📅 2024-11-18 - Self-hosted WakaTime server implementation written in Haskell, offering developers a privacy-first alternative for tracking coding time with beautiful visualizations and data control. ([Read more](/details/hakatime.md)) `Self Hosted` `Open Source` `Developers`
-* [TimeTracker by DRYTRIX](https://github.com/DRYTRIX/TimeTracker) ⭐ 641 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - Open-source, self-hosted time tracking software designed for individuals and teams who want complete control over their data. Features include project management, invoicing, and detailed reporting without subscription fees. ([Read more](/details/timetracker-by-drytrix.md)) `Open Source` `Self Hosted` `Free`
+* [TimeTracker by DRYTRIX](https://github.com/DRYTRIX/TimeTracker) ⭐ 642 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - Open-source, self-hosted time tracking software designed for individuals and teams who want complete control over their data. Features include project management, invoicing, and detailed reporting without subscription fees. ([Read more](/details/timetracker-by-drytrix.md)) `Open Source` `Self Hosted` `Free`
 * [TimeCase](https://github.com/interactive32/TimeCase) ⭐ 21 | 🐛 4 | 🌐 PHP | 📅 2023-02-03 - Free, open-source, self-hosted time tracking web application built for privacy-conscious individuals and teams. Offers complete control over data with no third-party dependencies or subscription costs. ([Read more](/details/timecase.md)) `Open Source` `Self Hosted` `Privacy Focused`
 * [Cloudron](https://www.cloudron.io) - Self-hosted app platform that simplifies deploying and managing open-source web applications on your own infrastructure. Provides automatic updates, backups, and a resilient multi-app server setup, making FOSS adoption accessible without deep sysadmin expertise. ([Read more](/details/cloudron.md)) `Self Hosted` `App Platform` `Open Source`
 * [Kimai](https://www.kimai.org/) - Completely free, open-source, and self-hostable time tracking solution designed for developers, agencies, and privacy-conscious organizations who want full control over their time tracking data without vendor lock-in or subscription fees. ([Read more](/details/kimai.md)) `Open Source` `Self Hosted` `Privacy` `Free`
@@ -3030,7 +3043,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [takt](https://github.com/siimonevans/takt) ⭐ 159 | 🐛 3 | 🌐 JavaScript | 📅 2017-11-15 - takt is a simple application for tracking tasks and the time spent on them, aiding in personal productivity and time management. ([Read more](/details/takt.md)) `Open Source` `personal-use` `Productivity` `Task Management`
 * [timer-5](https://github.com/Klaster1/timer-5) ⭐ 59 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-11 - timer-5 is a simple time-tracking tool for users who need to log their hours or track time spent on tasks or projects. ([Read more](/details/timer-5.md)) `Open Source` `Simple` `personal-use` `logging`
 * [aitrack.work](https://github.com/ttntm/itrack) ⭐ 38 | 🐛 7 | 🌐 JavaScript | 📅 2025-04-03 - aitrack.work is a minimal, open-source self-hosted task-based time tracker for everyday use, enabling users to organize and monitor time spent on tasks. ([Read more](/details/aitrackwork.md)) `Open Source` `Self Hosted` `Task Management` `Minimalist`
-* [timed](https://github.com/adfinis/timed) ⭐ 20 | 🐛 225 | 🌐 JavaScript | 📅 2026-11-12 - A time-tracking application monorepo for recording and managing time spent on various tasks. ([Read more](/details/timed.md)) `Open Source` `personal-use` `Task Management` `Simple`
+* [timed](https://github.com/adfinis/timed) ⭐ 20 | 🐛 226 | 🌐 JavaScript | 📅 2026-11-13 - A time-tracking application monorepo for recording and managing time spent on various tasks. ([Read more](/details/timed.md)) `Open Source` `personal-use` `Task Management` `Simple`
 * [Minder](https://github.com/Erudition/Minder) ⭐ 15 | 🐛 24 | 🌐 Elm | 📅 2026-08-09 - A free assistant and life planner app for people with ADHD, featuring time tracking and effective reminders to help users stay on task. ([Read more](/details/minder.md)) `Reminders` `Planning` `personal-use` `Productivity`
 * [Muino Time Management](https://github.com/martijnvwezel/muino-time-management) ⭐ 11 | 🐛 10 | 🌐 TypeScript | 📅 2023-07-18 - A time management and accounting tool for tracking project and task hours, designed for personal and professional use. ([Read more](/details/muino-time-management.md)) `Open Source` `Project Management` `Productivity` `personal-use`
 * [Dakik](https://github.com/codeaia/dakik) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-23 - A simple, cross-platform time and task management app focused on helping users track time and manage their schedules. ([Read more](/details/dakik.md)) `Cross Platform` `Task Management` `Simple` `personal-use`
@@ -3559,7 +3572,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [FLSA Time Rounding Policy 2026](https://www.bipc.com/rounding-hours-and-flsa-compliance-essential-considerations-for-employers-overview) - Updated Fair Labor Standards Act guidance on time rounding practices for employee timekeeping in 2026, addressing increased regulatory and judicial attention while maintaining that rounding policies remain acceptable when they average out over time without systematic under-compensation. ([Read more](/details/flsa-time-rounding-policy-2026.md)) `Flsa` `Compliance` `Regulations`
 * [Germany Time Tracking Mandate (2022)](https://timebutler.com/blog/time-tracking-obligation-germany/) - Following the Federal Labor Court decision (BAG 1 ABR 22/21) in September 2022, all employers in Germany must implement a system to record total working time for all employees regardless of company size, making time tracking mandatory across German workplaces. ([Read more](/details/germany-time-tracking-mandate-2022.md)) `Germany` `Compliance` `European Law`
 * [Liquidated Damages Double Backpay](https://hubstaff.com/workforce-management/flsa-compliance) - FLSA penalty provision where employees awarded liquidated damages receive double the amount of backpay they're owed, serving as a significant deterrent against wage and hour violations and emphasizing the importance of accurate time tracking compliance. ([Read more](/details/liquidated-damages-double-backpay.md)) `Flsa` `Compliance` `Penalties`
-* [NYC Prevailing Wage Electronic Filing (2026)](https://www.lumberfi.com/blog/nys-prevailing-wage-updates-2026-key-changes-for-contractors-and-compliance-challenges) - New York's mandatory electronic certified payroll filing requirement that took effect December 31, 2025. Contractors on government-funded projects must submit certified payroll records through a dedicated state portal, representing a major shift in construction time tracking compliance. ([Read more](/details/nyc-prevailing-wage-electronic-filing-2026.md)) `Construction` `Compliance` `Prevailing Wage`
+* \[NYC Prevailing Wage Electronic Filing (2026)]\(<https://www.lumberfi.com/blog/nys-prevailing-wage-updates-2026-[redacted> secret]) - New York's mandatory electronic certified payroll filing requirement that took effect December 31, 2025. Contractors on government-funded projects must submit certified payroll records through a dedicated state portal, representing a major shift in construction time tracking compliance. ([Read more](/details/nyc-prevailing-wage-electronic-filing-2026.md)) `Construction` `Compliance` `Prevailing Wage`
 * [OBBBA Overtime Reporting (2026)](https://www.isolvedhcm.com/blog/compliance-corner-obbba-qualified-overtime-updates) - New reporting requirements under the One Big Beautiful Bill Act (OBBBA) requiring employers to separately report qualified overtime compensation on Form W-2, fundamentally changing how payroll systems must track FLSA-qualified overtime versus non-FLSA overtime and state-specific premiums. ([Read more](/details/obbba-overtime-reporting-2026.md)) `Compliance` `Payroll` `Tax Reporting`
 * [Replicon FedRAMP Moderate Authorization](https://www.deltek.com/en/time-tracking/replicon) - Deltek Replicon achieved FedRAMP Moderate Authorization, an important distinction for SaaS providers supporting government contractors, enabling compliant time tracking for federal projects with DFARS 7012 and CMMC Level 2/3 support. ([Read more](/details/replicon-fedramp-moderate-authorization.md)) `Compliance` `Government` `Security`
 * [Time Theft Prevention](https://www.ontheclock.com/Blog/What-Is-Time-Theft.aspx) - Practices and technologies used to prevent and detect time theft in the workplace, including biometric time clocks, GPS tracking, and anti-spoofing measures to ensure accurate time reporting. ([Read more](/details/time-theft-prevention.md)) `Time Theft` `Compliance` `Fraud Prevention`
@@ -3730,6 +3743,10 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Timesheet Approval Workflow](https://www.apps365.com/blog/time-tracking-best-practices/) - Structured process for reviewing, approving, and processing time entries before they flow to billing or payroll systems. Effective approval workflows balance accuracy verification with speed, typically requiring manager approval within 48 hours of submission. ([Read more](/details/timesheet-approval-workflow.md)) `Approval` `Workflow` `Governance`
 * [Weekly Timesheet Approval Workflow](https://www.shiftbase.com/glossary/timesheet-approval) - Structured process for submitting, reviewing, and approving employee timesheets on weekly basis. Includes submission deadlines, approval hierarchy, exception handling, and integration with payroll to ensure accurate, timely wage payment. ([Read more](/details/weekly-timesheet-approval-workflow.md)) `Approval` `Workflow` `Payroll` `Compliance`
 
+## Time Tracking Software
+
+* [Bilr- Legal Billing Software](https://www.getbilr.com/) - Bilr is legal billing software for modern law firms. Manage timekeeping, invoicing, LEDES billing, UTBMS codes, and fee arrangements from one platform
+
 ## Time Tracking Tool
 
 * [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-11-05 - Lifeos-cli is a terminal-native application that helps users manage their intentions, habits, and time logs through an agent-friendly interface. It uses a PostgreSQL backend for data storage and is designed for productivity tracking via command line. ([Read more](/details/lifeos-cli.md)) `Open Source` `Command Line` `Productivity`
@@ -3808,7 +3825,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 * [Watson](https://github.com/TailorDev/Watson) ⭐ 2,549 | 🐛 143 | 🌐 Python | 📅 2026-11-11 - Watson is a command-line interface (CLI) time tracking app for Linux and macOS, designed to help users track and manage their time efficiently. It is open-source and ideal for developers and users who prefer terminal-based workflows. ([Read more](/details/watson.md)) `Open Source` `Command Line` `Linux` `Macos`
 * [Timetrap](https://github.com/samg/timetrap) ⭐ 1,514 | 🐛 33 | 🌐 Ruby | 📅 2025-03-12 - Timetrap is a Ruby-based command-line time tracker that offers a simple interface for tracking how time is spent on various activities. It is open-source and optimized for quick, terminal-based usage. ([Read more](/details/timetrap.md)) `Open Source` `Command Line` `ruby` `personal-use`
-* [Bartib](https://github.com/nikolassv/bartib) ⭐ 857 | 🐛 19 | 🌐 Rust | 📅 2026-03-25 - Bartib is a command-line time tracking tool that logs activities in plaintext files and provides flexible reporting options, making it suitable for straightforward personal time tracking. ([Read more](/details/bartib.md)) `Command Line` `logging` `Reporting` `Open Source`
+* [Bartib](https://github.com/nikolassv/bartib) ⭐ 856 | 🐛 19 | 🌐 Rust | 📅 2026-03-25 - Bartib is a command-line time tracking tool that logs activities in plaintext files and provides flexible reporting options, making it suitable for straightforward personal time tracking. ([Read more](/details/bartib.md)) `Command Line` `logging` `Reporting` `Open Source`
 * [timetrace](https://github.com/dominikbraun/timetrace) ⭐ 793 | 🐛 56 | 🌐 Go | 📅 2024-06-28 - timetrace is a free and open-source CLI tool for tracking working time, offering simple and efficient time logging directly from the command line. ([Read more](/details/timetrace.md)) `Open Source` `Command Line` `personal-use` `Simple`
 * [klog](https://github.com/jotaen/klog) ⭐ 686 | 🐛 0 | 🌐 Go | 📅 2026-10-22 - klog is a simple, open-source time-tracking tool that uses plain-text files for logging hours. It’s lightweight, privacy-respecting, and integrates smoothly with command-line tools, making it ideal for users who want a customizable time tracking experience. ([Read more](/details/klog.md)) `Open Source` `Command Line` `Lightweight` `Privacy`
 * [Zeit](https://github.com/mrusme/zeit) ⭐ 594 | 🐛 0 | 🌐 Go | 📅 2026-11-03 - Zeit is a command-line tool for tracking time spent on tasks and projects. It is open-source and provides a straightforward interface for managing and recording time usage. ([Read more](/details/zeit.md)) `Open Source` `Command Line` `Simple` `programmers`
@@ -3925,6 +3942,13 @@ The public-facing website is based on the open-source [Directory Website Templat
 * [Energy Restoration Rate](https://albimarketing.com/blog/the-future-of-work-2026-from-time-management-to-energy-management) - Workplace performance metric measuring how often employees report ending the day with energy left for personal life, providing insights into sustainable workload levels, effectiveness of break policies, work-life integration, and organizational energy management. ([Read more](/details/energy-restoration-rate.md)) `Energy Management` `Workplace Metrics` `Wellbeing`
 * [Real-Time Utilization Rate Tracking](https://www.scoro.com/blog/utilization-rate) - Live monitoring of employee billable hour percentage against capacity, enabling proactive resource management and identifying underutilization or burnout risks before they impact profitability or wellbeing. ([Read more](/details/real-time-utilization-rate-tracking.md)) `Utilization` `Billable Hours` `Analytics` `Capacity`
 
+## Workforce Management
+
+* [Proplanum](https://www.proplanum.com/en) - Employee scheduling and time tracking for shift-based businesses: rotas, tablet kiosk clock-in, leave requests, payroll export. `Timesheets` `Gps`
+* [Proplanum](https://www.proplanum.com/en) - Employee scheduling and time tracking for shift-based businesses: rotas, tablet kiosk clock-in, leave requests, payroll export. `Timesheets` `Gps`
+* [Proplanum](https://www.proplanum.com/en) - Employee scheduling and time tracking for shift-based businesses: rotas, tablet kiosk clock-in, leave requests, payroll export. `Timesheets` `Gps`
+* [Proplanum](https://www.proplanum.com/en) - Employee scheduling and time tracking for shift-based businesses: rotas, tablet kiosk clock-in, leave requests, payroll export. `Timesheets` `Gps`
+
 ## Workplace Research
 
 * [21% Global Employee Engagement Crisis](https://www.imd.org/ibyimd/talent/workplace-trends-for-2026/) - Only 21% of employees are engaged globally in 2026, making productivity "a human sustainability issue rather than an operational one" according to workplace trends research. ([Read more](/details/21-global-employee-engagement-crisis.md)) `Engagement` `Productivity` `Workplace`
@@ -3956,7 +3980,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 
 ## ⭐ Star History
 
-[![Star History Chart](https://stats-github.ever.works/svg?repos=ever-works/awesome-time-tracking\&type=Date)](https://stats-github.ever.works/#ever-works/awesome-time-tracking\&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ever-works/awesome-time-tracking\&type=Date)](https://star-history.com/#ever-works/awesome-time-tracking\&Date)
 
 ## ™️ Legal
 
@@ -3986,4 +4010,4 @@ This work is licensed under a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

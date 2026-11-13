@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "WINBIGFOX",
             "repo": "TimeScribe",
-            "stars": 933,
+            "stars": 934,
             "topics": [
               "billing",
               "desktop-app",
@@ -152,8 +152,8 @@
             "id": 433874407,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-11T23:42:04Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-13T07:56:56Z",
+            "open_issues": 10,
             "owner": "saeloun",
             "repo": "miru-web",
             "stars": 267,
@@ -620,7 +620,7 @@
             "open_issues": 34,
             "owner": "wakatime",
             "repo": "desktop-wakatime",
-            "stars": 174,
+            "stars": 175,
             "topics": [
               "electron-application",
               "time-tracker",
@@ -804,7 +804,7 @@
             "open_issues": 137,
             "owner": "Splode",
             "repo": "pomotroid",
-            "stars": 5609,
+            "stars": 5611,
             "topics": [
               "pomodoro",
               "pomodoro-technique",
@@ -834,7 +834,7 @@
             "open_issues": 48,
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3592,
+            "stars": 3594,
             "topics": [
               "macos",
               "menubar",
@@ -991,7 +991,7 @@
             "open_issues": 76,
             "owner": "traggo",
             "repo": "server",
-            "stars": 1645,
+            "stars": 1646,
             "topics": [
               "freesoftware",
               "golang",
@@ -1045,11 +1045,11 @@
             "id": 1038672519,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T11:10:07Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-13T15:13:08Z",
+            "open_issues": 1,
             "owner": "DRYTRIX",
             "repo": "TimeTracker",
-            "stars": 641,
+            "stars": 642,
             "topics": [
               "clockify-alternative",
               "docker",
@@ -1467,7 +1467,7 @@
             "id": 816791495,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-12T12:31:19Z",
+            "last_commit": "2026-11-12T22:41:17Z",
             "open_issues": 17,
             "owner": "ktmouk",
             "repo": "minute",
@@ -1581,8 +1581,8 @@
             "id": 799833160,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-12T11:04:30Z",
-            "open_issues": 225,
+            "last_commit": "2026-11-13T13:22:36Z",
+            "open_issues": 226,
             "owner": "adfinis",
             "repo": "timed",
             "stars": 20,
@@ -1933,7 +1933,7 @@
             "open_issues": 19,
             "owner": "nikolassv",
             "repo": "bartib",
-            "stars": 857,
+            "stars": 856,
             "topics": [
               "cli",
               "cli-app",
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T19:04:06.797Z",
+    "last_updated": "2026-11-13T18:42:08.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
@@ -2729,8 +2729,8 @@
       "id": 714280515,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-08-04T21:55:35Z",
-      "open_issues": 15,
+      "last_commit": "2026-11-13T16:00:16Z",
+      "open_issues": 16,
       "owner": "ever-works",
       "repo": "awesome-time-tracking",
       "stars": 240,
@@ -2752,7 +2752,7 @@
         "timetrackingapp"
       ]
     },
-    "original_repository_sha": "cba0e1786e3abc77b9d611c2e1c6c385a7c73c33",
+    "original_repository_sha": "77d3e1dde42b08cec3b00e387fc6069d0a9a0f25",
     "enhanced_repository": "enhansome/enhansome-time-tracking",
     "enhanced_repository_description": null,
     "title": "Awesome Time tracking with stars"
