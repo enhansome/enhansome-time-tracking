@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "WINBIGFOX",
             "repo": "TimeScribe",
-            "stars": 935,
+            "stars": 936,
             "topics": [
               "billing",
               "desktop-app",
@@ -152,8 +152,8 @@
             "id": 433874407,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-13T07:56:56Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-15T17:43:50Z",
+            "open_issues": 9,
             "owner": "saeloun",
             "repo": "miru-web",
             "stars": 267,
@@ -328,7 +328,7 @@
             "id": 416925444,
             "language": null,
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-14T14:54:18Z",
+            "last_commit": "2026-11-15T05:28:09Z",
             "open_issues": 27,
             "owner": "ever-co",
             "repo": "ever-gauzy-desktop-timer",
@@ -804,7 +804,7 @@
             "open_issues": 137,
             "owner": "Splode",
             "repo": "pomotroid",
-            "stars": 5612,
+            "stars": 5615,
             "topics": [
               "pomodoro",
               "pomodoro-technique",
@@ -834,7 +834,7 @@
             "open_issues": 48,
             "owner": "ivoronin",
             "repo": "TomatoBar",
-            "stars": 3596,
+            "stars": 3597,
             "topics": [
               "macos",
               "menubar",
@@ -961,7 +961,7 @@
             "open_issues": 109,
             "owner": "almarklein",
             "repo": "timetagger",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "python",
               "timetracker"
@@ -991,7 +991,7 @@
             "open_issues": 77,
             "owner": "traggo",
             "repo": "server",
-            "stars": 1646,
+            "stars": 1647,
             "topics": [
               "freesoftware",
               "golang",
@@ -1021,7 +1021,7 @@
             "open_issues": 25,
             "owner": "mujx",
             "repo": "hakatime",
-            "stars": 688,
+            "stars": 689,
             "topics": [
               "mithriljs",
               "self-hosted",
@@ -1045,11 +1045,11 @@
             "id": 1038672519,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T11:19:16Z",
+            "last_commit": "2026-11-15T16:08:29Z",
             "open_issues": 0,
             "owner": "DRYTRIX",
             "repo": "TimeTracker",
-            "stars": 643,
+            "stars": 644,
             "topics": [
               "clockify-alternative",
               "docker",
@@ -1269,7 +1269,7 @@
             "open_issues": 0,
             "owner": "toggl",
             "repo": "toggl_api_docs",
-            "stars": 1389,
+            "stars": 1388,
             "topics": [
               "backend"
             ]
@@ -1381,7 +1381,7 @@
             "open_issues": 4,
             "owner": "bbaumgartner",
             "repo": "jtoggl",
-            "stars": 16,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-10-06T10:48:40.902Z"
@@ -2721,7 +2721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:16:28.044Z",
+    "last_updated": "2026-11-15T17:56:23.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "Time Tracking - Software, Methodologies and Practices - https://timetrack.ever.works",
